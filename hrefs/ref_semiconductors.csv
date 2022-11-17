@@ -1,0 +1,102 @@
+href,ticker,fair_value
+/stocks/us/semiconductors/nasdaq-nvda/nvidia,NVDA, ($157.62)
+/stocks/us/semiconductors/nasdaq-avgo/broadcom,AVGO, ($544.88)
+/stocks/us/semiconductors/nasdaq-txn/texas-instruments,TXN, ($180.33)
+/stocks/us/semiconductors/nasdaq-qcom/qualcomm,QCOM, ($170.01)
+/stocks/us/semiconductors/nasdaq-intc/intel,INTC, ($21.72)
+/stocks/us/semiconductors/nasdaq-amd/advanced-micro-devices,AMD, ($126.95)
+/stocks/us/semiconductors/nasdaq-amat/applied-materials,AMAT, ($123.3)
+/stocks/us/semiconductors/nasdaq-adi/analog-devices,ADI, ($178.94)
+/stocks/us/semiconductors/nasdaq-lrcx/lam-research,LRCX, ($704.81)
+/stocks/us/semiconductors/nasdaq-mu/micron-technology,MU, ($38.26)
+/stocks/us/semiconductors/nasdaq-klac/kla,KLAC, ($439.43)
+/stocks/us/semiconductors/nasdaq-nxpi/nxp-semiconductors,NXPI, ($226.6)
+/stocks/us/semiconductors/nasdaq-mchp/microchip-technology,MCHP, ($80.93)
+/stocks/us/semiconductors/nasdaq-enph/enphase-energy,ENPH, ($145.77)
+/stocks/us/semiconductors/nasdaq-mrvl/marvell-technology,MRVL, ($61.51)
+/stocks/us/semiconductors/nasdaq-gfs/globalfoundries,GFS, ($40.61)
+/stocks/us/semiconductors/nasdaq-on/on-semiconductor,ON, ($55.55)
+/stocks/us/semiconductors/nasdaq-mpwr/monolithic-power-systems,MPWR, ($388.86)
+/stocks/us/semiconductors/nasdaq-sedg/solaredge-technologies,SEDG, ($181.6)
+/stocks/us/semiconductors/nasdaq-fslr/first-solar,FSLR, ($496.84)
+/stocks/us/semiconductors/nasdaq-swks/skyworks-solutions,SWKS, ($185.34)
+/stocks/us/semiconductors/nasdaq-ter/teradyne,TER, ($160.11)
+/stocks/us/semiconductors/nasdaq-entg/entegris,ENTG, ($67.95)
+/stocks/us/semiconductors/nyse-wolf/wolfspeed,WOLF, ($378.58)
+/stocks/us/semiconductors/nasdaq-qrvo/qorvo,QRVO, ($189.64)
+/stocks/us/semiconductors/nasdaq-lscc/lattice-semiconductor,LSCC, ($301.76)
+/stocks/us/semiconductors/nasdaq-amkr/amkor-technology,AMKR, ($18.64)
+/stocks/us/semiconductors/nasdaq-algm/allegro-microsystems,ALGM, ($23.77)
+/stocks/us/semiconductors/nasdaq-mksi/mks-instruments,MKSI, ($146.1)
+/stocks/us/semiconductors/nasdaq-oled/universal-display,OLED, ($183.32)
+/stocks/us/semiconductors/nasdaq-ccmp/cmc-materials,CCMP, ($138.04)
+/stocks/us/semiconductors/nasdaq-mtsi/macom-technology-solutions-holdings,MTSI, ($34.22)
+/stocks/us/semiconductors/nasdaq-slab/silicon-laboratories,SLAB, ($60.75)
+/stocks/us/semiconductors/nasdaq-tsem/tower-semiconductor,TSEM, ($104)
+/stocks/us/semiconductors/nasdaq-powi/power-integrations,POWI, ($50.92)
+/stocks/us/semiconductors/nyse-dq/daqo-new-energy,DQ, ($221.03)
+/stocks/us/semiconductors/nyse-onto/onto-innovation,ONTO, ($27.64)
+/stocks/us/semiconductors/nasdaq-syna/synaptics,SYNA, ($112.51)
+/stocks/us/semiconductors/nasdaq-crus/cirrus-logic,CRUS, ($27.48)
+/stocks/us/semiconductors/nasdaq-rmbs/rambus,RMBS, ($28.04)
+/stocks/us/semiconductors/nasdaq-diod/diodes,DIOD, ($108.36)
+/stocks/us/semiconductors/nasdaq-pi/impinj,PI,
+/stocks/us/semiconductors/nasdaq-mxl/maxlinear,MXL, ($50.36)
+/stocks/us/semiconductors/nasdaq-klic/kulicke-and-soffa-industries,KLIC, ($306.89)
+/stocks/us/semiconductors/nyse-jks/jinkosolar-holding,JKS, ($3.98)
+/stocks/us/semiconductors/nasdaq-nvmi/nova,NVMI, ($18.06)
+/stocks/us/semiconductors/nasdaq-acls/axcelis-technologies,ACLS, ($83.64)
+/stocks/us/semiconductors/nasdaq-csiq/canadian-solar,CSIQ,
+/stocks/us/semiconductors/nasdaq-amba/ambarella,AMBA, ($122.15)
+/stocks/us/semiconductors/nasdaq-sitm/sitime,SITM, ($26.12)
+/stocks/us/semiconductors/nasdaq-crdo/credo-technology-group-holding,CRDO, ($16.89)
+/stocks/us/semiconductors/nasdaq-simo/silicon-motion-technology,SIMO, ($89.85)
+/stocks/us/semiconductors/nasdaq-smtc/semtech,SMTC, ($93.62)
+/stocks/us/semiconductors/nasdaq-cohu/cohu,COHU, ($51.23)
+/stocks/us/semiconductors/nasdaq-form/formfactor,FORM, ($64.15)
+/stocks/us/semiconductors/nasdaq-uctt/ultra-clean-holdings,UCTT, ($9.45)
+/stocks/us/semiconductors/nasdaq-indi/indie-semiconductor,INDI,
+/stocks/us/semiconductors/nasdaq-himx/himax-technologies,HIMX, ($9.68)
+/stocks/us/semiconductors/nasdaq-plab/photronics,PLAB, ($60.22)
+/stocks/us/semiconductors/nasdaq-camt/camtek,CAMT, ($24.13)
+/stocks/us/semiconductors/nasdaq-veco/veeco-instruments,VECO, ($36.4)
+/stocks/us/semiconductors/nasdaq-aosl/alpha-and-omega-semiconductor,AOSL, ($10.46)
+/stocks/us/semiconductors/nasdaq-pdfs/pdf-solutions,PDFS, ($43.87)
+/stocks/us/semiconductors/nasdaq-maxn/maxeon-solar-technologies,MAXN, ($17.78)
+/stocks/us/semiconductors/nyse-nptn/neophotonics,NPTN,
+/stocks/us/semiconductors/nasdaq-ichr/ichor-holdings,ICHR,
+/stocks/us/semiconductors/nasdaq-sgh/smart-global-holdings,SGH, ($40.33)
+/stocks/us/semiconductors/nasdaq-nvts/navitas-semiconductor,NVTS,
+/stocks/us/semiconductors/nasdaq-ceva/ceva,CEVA, ($26)
+/stocks/us/semiconductors/nasdaq-aehr/aehr-test-systems,AEHR, ($13.51)
+/stocks/us/semiconductors/nasdaq-acmr/acm-research,ACMR, ($0.46)
+/stocks/us/semiconductors/nasdaq-skyt/skywater-technology,SKYT, ($2.31)
+/stocks/us/semiconductors/nasdaq-mmat/meta-materials,MMAT,
+/stocks/us/semiconductors/nyse-mx/magnachip-semiconductor,MX,
+/stocks/us/semiconductors/nasdaq-cybe/cyberoptics,CYBE, ($20.33)
+/stocks/us/semiconductors/nasdaq-tgan/transphorm,TGAN,
+/stocks/us/semiconductors/nyse-vln/valens-semiconductor,VLN,
+/stocks/us/semiconductors/nasdaq-nvec/nve,NVEC, ($55.51)
+/stocks/us/semiconductors/nasdaq-atom/atomera,ATOM,
+/stocks/us/semiconductors/nasdaq-axti/axt,AXTI,
+/stocks/us/semiconductors/nyse-sqns/sequans-communications,SQNS,
+/stocks/us/semiconductors/nasdaq-asys/amtech-systems,ASYS,
+/stocks/us/semiconductors/nasdaq-rgti/rigetti-computing,RGTI,
+/stocks/us/semiconductors/nasdaq-mram/everspin-technologies,MRAM, ($43.14)
+/stocks/us/semiconductors/nasdaq-oiim/o2micro-international,OIIM, ($3.39)
+/stocks/us/semiconductors/nasdaq-asti/ascent-solar-technologies,ASTI,
+/stocks/us/semiconductors/nasdaq-kopn/kopin,KOPN,
+/stocks/us/semiconductors/nysemkt-intt/intest,INTT,
+/stocks/us/semiconductors/nasdaq-quik/quicklogic,QUIK, ($12.09)
+/stocks/us/semiconductors/nasdaq-pxlw/pixelworks,PXLW,
+/stocks/us/semiconductors/nysemkt-eman/emagin,EMAN,
+/stocks/us/semiconductors/nasdaq-na/nano-labs,,
+/stocks/us/semiconductors/nasdaq-gsit/gsi-technology,GSIT,
+/stocks/us/semiconductors/nyse-rkly/rockley-photonics-holdings,RKLY,
+/stocks/us/semiconductors/nasdaq-spi/spi-energy,SPI,
+/stocks/us/semiconductors/nasdaq-cvv/cvd-equipment,CVV,
+/stocks/us/semiconductors/nasdaq-prso/peraso,PRSO,
+/stocks/us/semiconductors/nysemkt-trt/trio-tech-international,TRT, ($0.52)
+/stocks/us/semiconductors/nasdaq-leds/semileds,LEDS,
+/stocks/us/semiconductors/nasdaq-wisa/wisa-technologies,WISA,
+/stocks/us/semiconductors/nasdaq-rbcn/rubicon-technology,RBCN,

@@ -1,0 +1,111 @@
+href,ticker,fair_value
+/stocks/us/insurance/nyse-cb/chubb,CB, ($329.4)
+/stocks/us/insurance/nyse-mmc/marsh-mclennan-companies,MMC, ($173.27)
+/stocks/us/insurance/nyse-pgr/progressive,PGR, ($128.76)
+/stocks/us/insurance/nyse-aon/aon,AON, ($311.04)
+/stocks/us/insurance/nyse-met/metlife,MET, ($102.63)
+/stocks/us/insurance/nyse-aig/american-international-group,AIG, ($75.07)
+/stocks/us/insurance/nyse-afl/aflac,AFL, ($100.26)
+/stocks/us/insurance/nyse-trv/travelers-companies,TRV, ($266.86)
+/stocks/us/insurance/nyse-pru/prudential-financial,PRU, ($152.22)
+/stocks/us/insurance/nyse-ajg/arthur-j-gallagher,AJG, ($169.73)
+/stocks/us/insurance/nyse-all/allstate,ALL, ($168.09)
+/stocks/us/insurance/nasdaq-wtw/willis-towers-watson,WTW, ($268.58)
+/stocks/us/insurance/nyse-hig/hartford-financial-services-group,HIG, ($154.5)
+/stocks/us/insurance/nasdaq-pfg/principal-financial-group,PFG, ($99.95)
+/stocks/us/insurance/nasdaq-acgl/arch-capital-group,ACGL, ($91.86)
+/stocks/us/insurance/nyse-wrb/w-r-berkley,WRB, ($113.17)
+/stocks/us/insurance/nyse-mkl/markel,MKL, ($1109.63)
+/stocks/us/insurance/nasdaq-cinf/cincinnati-financial,CINF, ($87.59)
+/stocks/us/insurance/nyse-bro/brown-brown,BRO, ($47.74)
+/stocks/us/insurance/nyse-l/loews,L, ($32.09)
+/stocks/us/insurance/nasdaq-erie/erie-indemnity,ERIE, ($127.31)
+/stocks/us/insurance/nyse-re/everest-re-group,RE, ($584.71)
+/stocks/us/insurance/nyse-afg/american-financial-group,AFG, ($258.13)
+/stocks/us/insurance/nyse-fnf/fidelity-national-financial,FNF, ($158.99)
+/stocks/us/insurance/nyse-ryan/ryan-specialty-holdings,RYAN, ($14)
+/stocks/us/insurance/nyse-y/alleghany,Y, ($609.56)
+/stocks/us/insurance/nyse-gl/globe-life,GL, ($170.2)
+/stocks/us/insurance/nyse-rga/reinsurance-group-of-america,RGA, ($251.68)
+/stocks/us/insurance/nyse-unm/unum-group,UNM, ($106.7)
+/stocks/us/insurance/nyse-rnr/renaissancere-holdings,RNR, ($270.78)
+/stocks/us/insurance/nyse-knsl/kinsale-capital-group,KNSL, ($208.14)
+/stocks/us/insurance/nyse-ori/old-republic-international,ORI, ($66.02)
+/stocks/us/insurance/nyse-aiz/assurant,AIZ, ($218.88)
+/stocks/us/insurance/nyse-rli/rli,RLI, ($106.8)
+/stocks/us/insurance/nyse-lnc/lincoln-national,LNC, ($71.63)
+/stocks/us/insurance/nasdaq-sigi/selective-insurance-group,SIGI, ($116.88)
+/stocks/us/insurance/nyse-faf/first-american-financial,FAF, ($143.45)
+/stocks/us/insurance/nyse-pri/primerica,PRI, ($271.4)
+/stocks/us/insurance/nyse-thg/hanover-insurance-group,THG, ($211.55)
+/stocks/us/insurance/nyse-axs/axis-capital-holdings,AXS, ($106.67)
+/stocks/us/insurance/nasdaq-bhf/brighthouse-financial,BHF, ($91.48)
+/stocks/us/insurance/nyse-ago/assured-guaranty,AGO, ($56.23)
+/stocks/us/insurance/nyse-kmpr/kemper,KMPR, ($26.21)
+/stocks/us/insurance/nasdaq-esgr/enstar-group,ESGR, ($345.57)
+/stocks/us/insurance/nyse-wtm/white-mountains-insurance-group,WTM, ($285.19)
+/stocks/us/insurance/nasdaq-brp/brp-group,BRP,
+/stocks/us/insurance/nyse-ael/american-equity-investment-life-holding,AEL, ($76.17)
+/stocks/us/insurance/nyse-hgty/hagerty,HGTY,
+/stocks/us/insurance/nyse-cno/cno-financial-group,CNO, ($22.76)
+/stocks/us/insurance/nyse-gnw/genworth-financial,GNW, ($14.62)
+/stocks/us/insurance/nasdaq-trup/trupanion,TRUP,
+/stocks/us/insurance/nyse-bamr/brookfield-asset-management-reinsurance-partners,BAMR,
+/stocks/us/insurance/nyse-mcy/mercury-general,MCY, ($84.18)
+/stocks/us/insurance/nasdaq-plmr/palomar-holdings,PLMR, ($77.91)
+/stocks/us/insurance/nyse-hmn/horace-mann-educators,HMN, ($46.76)
+/stocks/us/insurance/nyse-lmnd/lemonade,LMND,
+/stocks/us/insurance/nasdaq-gshd/goosehead-insurance,GSHD,
+/stocks/us/insurance/nasdaq-saft/safety-insurance-group,SAFT, ($131.38)
+/stocks/us/insurance/nyse-eig/employers-holdings,EIG, ($76.97)
+/stocks/us/insurance/nasdaq-amsf/amerisafe,AMSF, ($98.23)
+/stocks/us/insurance/nyse-pra/proassurance,PRA, ($11.57)
+/stocks/us/insurance/nyse-stc/stewart-information-services,STC, ($147.6)
+/stocks/us/insurance/nyse-spnt/siriuspoint,SPNT,
+/stocks/us/insurance/nasdaq-jrvr/james-river-group-holdings,JRVR,
+/stocks/us/insurance/nyse-argo/argo-group-international-holdings,ARGO,
+/stocks/us/insurance/nasdaq-nwli/national-western-life-group,NWLI, ($588.02)
+/stocks/us/insurance/nasdaq-ufcs/united-fire-group,UFCS,
+/stocks/us/insurance/nyse-mbi/mbia,MBI, ($35.84)
+/stocks/us/insurance/nyse-ambc/ambac-financial-group,AMBC,
+/stocks/us/insurance/nyse-wdh/waterdrop,WDH,
+/stocks/us/insurance/nyse-bhg/bright-health-group,BHG,
+/stocks/us/insurance/nyse-oscr/oscar-health,OSCR,
+/stocks/us/insurance/nasdaq-dgic.a/donegal-group,DGIC.A, ($19.54)
+/stocks/us/insurance/nasdaq-tipt/tiptree,TIPT,
+/stocks/us/insurance/nyse-hipo/hippo-holdings,HIPO,
+/stocks/us/insurance/nasdaq-igic/international-general-insurance-holdings,IGIC, ($5.79)
+/stocks/us/insurance/nyse-hci/hci-group,HCI, ($33.76)
+/stocks/us/insurance/nyse-gbli/global-indemnity-group,GBLI,
+/stocks/us/insurance/nyse-crd.b/crawford,CRD.B, ($10.15)
+/stocks/us/insurance/nyse-uve/universal-insurance-holdings,UVE, ($7.63)
+/stocks/us/insurance/nasdaq-itic/investors-title,ITIC, ($453.37)
+/stocks/us/insurance/nasdaq-nodk/ni-holdings,NODK, ($20.53)
+/stocks/us/insurance/nasdaq-glre/greenlight-capital-re,GLRE,
+/stocks/us/insurance/nasdaq-fanh/fanhua,FANH, ($10.54)
+/stocks/us/insurance/nasdaq-mhld/maiden-holdings,MHLD, ($0.2)
+/stocks/us/insurance/nyse-kfs/kingsway-financial-services,KFS, ($31.8)
+/stocks/us/insurance/nasdaq-goco/gohealth,GOCO,
+/stocks/us/insurance/nyse-cia/citizens,CIA, ($25.92)
+/stocks/us/insurance/nasdaq-mile/metromile,MILE,
+/stocks/us/insurance/nyse-slqt/selectquote,SLQT, ($3.98)
+/stocks/us/insurance/nasdaq-tig/trean-insurance-group,TIG, ($7.59)
+/stocks/us/insurance/nasdaq-ehth/ehealth,EHTH, ($4.66)
+/stocks/us/insurance/nasdaq-root/root,ROOT,
+/stocks/us/insurance/nasdaq-very/vericity,VERY,
+/stocks/us/insurance/nasdaq-aame/atlantic-american,AAME, ($0.39)
+/stocks/us/insurance/nasdaq-mdwt/midwest-holding,MDWT,
+/stocks/us/insurance/nasdaq-icch/icc-holdings,ICCH, ($10.61)
+/stocks/us/insurance/nasdaq-nsec/national-security-group,NSEC,
+/stocks/us/insurance/nyse-hrtg/heritage-insurance-holdings,HRTG,
+/stocks/us/insurance/nasdaq-huiz/huize-holding,HUIZ,
+/stocks/us/insurance/nasdaq-fgf/fg-financial-group,FGF,
+/stocks/us/insurance/nasdaq-kins/kingstone-companies,KINS,
+/stocks/us/insurance/nasdaq-cnfr/conifer-holdings,CNFR,
+/stocks/us/insurance/nasdaq-mrai/marpai,MRAI,
+/stocks/us/insurance/nasdaq-hall/hallmark-financial-services,HALL,
+/stocks/us/insurance/nasdaq-oxbr/oxbridge-re-holdings,OXBR,
+/stocks/us/insurance/nasdaq-uihc/united-insurance-holdings,UIHC,
+/stocks/us/insurance/nasdaq-reli/reliance-global-group,RELI,
+/stocks/us/insurance/nasdaq-tirx/tian-ruixiang-holdings,TIRX,
+/stocks/us/insurance/nasdaq-unam/unico-american,UNAM,

@@ -1,0 +1,169 @@
+href,ticker,fair_value
+/stocks/us/diversified-financials/nyse-brk.a/berkshire-hathaway,BRK.A, ($513344.6)
+/stocks/us/diversified-financials/nyse-ms/morgan-stanley,MS, ($107.19)
+/stocks/us/diversified-financials/nyse-schw/charles-schwab,SCHW, ($95.22)
+/stocks/us/diversified-financials/nyse-gs/goldman-sachs-group,GS, ($327.6)
+/stocks/us/diversified-financials/nyse-axp/american-express,AXP, ($213.73)
+/stocks/us/diversified-financials/nyse-bx/blackstone,BX, ($101.1)
+/stocks/us/diversified-financials/nyse-blk/blackrock,BLK, ($658.32)
+/stocks/us/diversified-financials/nyse-spgi/sp-global,SPGI, ($258.34)
+/stocks/us/diversified-financials/nasdaq-cme/cme-group,CME, ($142.8)
+/stocks/us/diversified-financials/nyse-ice/intercontinental-exchange,ICE, ($96.12)
+/stocks/us/diversified-financials/nyse-mco/moodys,MCO, ($233.26)
+/stocks/us/diversified-financials/nyse-kkr/kkr,KKR, ($67.36)
+/stocks/us/diversified-financials/nyse-cof/capital-one-financial,COF, ($214.41)
+/stocks/us/diversified-financials/nyse-msci/msci,MSCI, ($356.33)
+/stocks/us/diversified-financials/nyse-apo/apollo-global-management,APO, ($30.6)
+/stocks/us/diversified-financials/nyse-bk/bank-of-new-york-mellon,BK, ($40.54)
+/stocks/us/diversified-financials/nyse-amp/ameriprise-financial,AMP, ($381.39)
+/stocks/us/diversified-financials/nasdaq-ibkr/interactive-brokers-group,IBKR, ($48.59)
+/stocks/us/diversified-financials/nasdaq-ndaq/nasdaq,NDAQ, ($50.41)
+/stocks/us/diversified-financials/nyse-dfs/discover-financial-services,DFS, ($253.8)
+/stocks/us/diversified-financials/nyse-stt/state-street,STT, ($107.96)
+/stocks/us/diversified-financials/nasdaq-trow/t-rowe-price-group,TROW, ($145.53)
+/stocks/us/diversified-financials/nyse-rjf/raymond-james-financial,RJF, ($203.29)
+/stocks/us/diversified-financials/nyse-ares/ares-management,ARES, ($9.95)
+/stocks/us/diversified-financials/nasdaq-lpla/lpl-financial-holdings,LPLA, ($294.95)
+/stocks/us/diversified-financials/nasdaq-ntrs/northern-trust,NTRS, ($112.1)
+/stocks/us/diversified-financials/nyse-fds/factset-research-systems,FDS, ($371.53)
+/stocks/us/diversified-financials/nyse-owl/blue-owl-capital,OWL,
+/stocks/us/diversified-financials/nyse-syf/synchrony-financial,SYF, ($86.32)
+/stocks/us/diversified-financials/nyse-crbg/corebridge-financial,CRBG, ($44.87)
+/stocks/us/diversified-financials/nasdaq-tw/tradeweb-markets,TW, ($45.38)
+/stocks/us/diversified-financials/bats-cboe/cboe-global-markets,CBOE, ($162.09)
+/stocks/us/diversified-financials/nyse-ben/franklin-resources,BEN, ($40.19)
+/stocks/us/diversified-financials/nasdaq-tpg/tpg,TPG, ($18.3)
+/stocks/us/diversified-financials/nasdaq-xp/xp,XP, ($12.41)
+/stocks/us/diversified-financials/nyse-eqh/equitable-holdings,EQH, ($82.32)
+/stocks/us/diversified-financials/nasdaq-cg/carlyle-group,CG, ($64.85)
+/stocks/us/diversified-financials/nasdaq-mktx/marketaxess-holdings,MKTX, ($159.62)
+/stocks/us/diversified-financials/nasdaq-coin/coinbase-global,COIN,
+/stocks/us/diversified-financials/nasdaq-morn/morningstar,MORN, ($76.03)
+/stocks/us/diversified-financials/nyse-nly/annaly-capital-management,NLY, ($32.27)
+/stocks/us/diversified-financials/nyse-ally/ally-financial,ALLY, ($41.66)
+/stocks/us/diversified-financials/nyse-ivz/invesco,IVZ, ($29.37)
+/stocks/us/diversified-financials/nyse-jef/jefferies-financial-group,JEF, ($40.38)
+/stocks/us/diversified-financials/nasdaq-seic/sei-investments,SEIC, ($71.98)
+/stocks/us/diversified-financials/nasdaq-hood/robinhood-markets,HOOD,
+/stocks/us/diversified-financials/nyse-sf/stifel-financial,SF, ($78.75)
+/stocks/us/diversified-financials/nyse-voya/voya-financial,VOYA, ($108.19)
+/stocks/us/diversified-financials/nyse-hli/houlihan-lokey,HLI, ($130.3)
+/stocks/us/diversified-financials/nasdaq-cacc/credit-acceptance,CACC, ($696.32)
+/stocks/us/diversified-financials/nyse-stwd/starwood-property-trust,STWD, ($24.6)
+/stocks/us/diversified-financials/nyse-amg/affiliated-managers-group,AMG, ($141.93)
+/stocks/us/diversified-financials/nasdaq-futu/futu-holdings,FUTU, ($51)
+/stocks/us/diversified-financials/nyse-omf/onemain-holdings,OMF, ($75.75)
+/stocks/us/diversified-financials/nasdaq-agnc/agnc-investment,AGNC, ($19.77)
+/stocks/us/diversified-financials/nyse-evr/evercore,EVR, ($241.16)
+/stocks/us/diversified-financials/nasdaq-sofi/sofi-technologies,SOFI,
+/stocks/us/diversified-financials/nasdaq-slm/slm,SLM, ($35.71)
+/stocks/us/diversified-financials/nasdaq-fcfs/firstcash-holdings,FCFS, ($48.47)
+/stocks/us/diversified-financials/nyse-bxmt/blackstone-mortgage-trust,BXMT, ($29.75)
+/stocks/us/diversified-financials/nyse-jhg/janus-henderson-group,JHG, ($28.54)
+/stocks/us/diversified-financials/nyse-psth/pershing-square-tontine-holdings,PSTH,
+/stocks/us/diversified-financials/nyse-ritm/rithm-capital,RITM, ($12.48)
+/stocks/us/diversified-financials/nasdaq-hlne/hamilton-lane,HLNE, ($55.12)
+/stocks/us/diversified-financials/nasdaq-virt/virtu-financial,VIRT, ($56.48)
+/stocks/us/diversified-financials/nyse-lu/lufax-holding,LU, ($8.58)
+/stocks/us/diversified-financials/nyse-nni/nelnet,NNI, ($84.06)
+/stocks/us/diversified-financials/nasdaq-frhc/freedom-holding,FRHC, ($19.58)
+/stocks/us/diversified-financials/nyse-laz/lazard,LAZ, ($28.21)
+/stocks/us/diversified-financials/nasdaq-step/stepstone-group,STEP, ($97.62)
+/stocks/us/diversified-financials/nyse-cns/cohen-steers,CNS, ($49.45)
+/stocks/us/diversified-financials/nyse-fhi/federated-hermes,FHI, ($44.02)
+/stocks/us/diversified-financials/nasdaq-focs/focus-financial-partners,FOCS, ($1.37)
+/stocks/us/diversified-financials/nyse-pjt/pjt-partners,PJT, ($29.24)
+/stocks/us/diversified-financials/nyse-main/main-street-capital,MAIN, ($50.84)
+/stocks/us/diversified-financials/nyse-abr/arbor-realty-trust,ABR, ($30.96)
+/stocks/us/diversified-financials/nyse-mc/moelis,MC, ($57.15)
+/stocks/us/diversified-financials/nyse-jxn/jackson-financial,JXN, ($292.05)
+/stocks/us/diversified-financials/nyse-hasi/hannon-armstrong-sustainable-infrastructure-capital,HASI, ($50.88)
+/stocks/us/diversified-financials/nyse-pipr/piper-sandler-companies,PIPR, ($120.22)
+/stocks/us/diversified-financials/nyse-apam/artisan-partners-asset-management,APAM, ($54.39)
+/stocks/us/diversified-financials/nyse-cmtg/claros-mortgage-trust,CMTG, ($24.52)
+/stocks/us/diversified-financials/nasdaq-navi/navient,NAVI, ($45.08)
+/stocks/us/diversified-financials/nyse-bfh/bread-financial-holdings,BFH, ($82.53)
+/stocks/us/diversified-financials/nasdaq-pax/patria-investments,PAX, ($9.83)
+/stocks/us/diversified-financials/nasdaq-vctr/victory-capital-holdings,VCTR, ($90.35)
+/stocks/us/diversified-financials/nyse-asz/austerlitz-acquisition-corporation-ii,ASZ,
+/stocks/us/diversified-financials/nasdaq-snex/stonex-group,SNEX, ($60.98)
+/stocks/us/diversified-financials/nasdaq-qfin/360-digitech,QFIN, ($64.49)
+/stocks/us/diversified-financials/nyse-adx/adams-diversified-equity-fund,ADX, ($41.85)
+/stocks/us/diversified-financials/nyse-htgc/hercules-capital,HTGC, ($21.3)
+/stocks/us/diversified-financials/nyse-cnne/cannae-holdings,CNNE, ($68.15)
+/stocks/us/diversified-financials/nyse-amk/assetmark-financial-holdings,AMK,
+/stocks/us/diversified-financials/nyse-kahc/kkr-acquisition-holdings-i,KAHC,
+/stocks/us/diversified-financials/nyse-cvii/churchill-capital-corp-vii,CVII,
+/stocks/us/diversified-financials/nasdaq-bgcp/bgc-partners,BGCP, ($2.23)
+/stocks/us/diversified-financials/nyse-brdg/bridge-investment-group-holdings,BRDG, ($25.96)
+/stocks/us/diversified-financials/nyse-ari/apollo-commercial-real-estate-finance,ARI, ($15.47)
+/stocks/us/diversified-financials/nasdaq-gcmg/grosvenor-capital-management,GCMG, ($8.72)
+/stocks/us/diversified-financials/nyse-cim/chimera-investment,CIM, ($2.54)
+/stocks/us/diversified-financials/nyse-codi/compass-diversified,CODI,
+/stocks/us/diversified-financials/nyse-ipof/social-capital-hedosophia-holdings-vi,IPOF,
+/stocks/us/diversified-financials/nasdaq-upst/upstart-holdings,UPST, ($4.8)
+/stocks/us/diversified-financials/nyse-rc/ready-capital,RC, ($15.62)
+/stocks/us/diversified-financials/nyse-ladr/ladder-capital,LADR, ($2.97)
+/stocks/us/diversified-financials/nasdaq-vrts/virtus-investment-partners,VRTS, ($276.35)
+/stocks/us/diversified-financials/nasdaq-praa/pra-group,PRAA, ($36.98)
+/stocks/us/diversified-financials/nyse-two/two-harbors-investment,TWO, ($28.07)
+/stocks/us/diversified-financials/nyse-jwsm/jaws-mustang-acquisition,JWSM,
+/stocks/us/diversified-financials/nyse-finv/finvolution-group,FINV, ($24.32)
+/stocks/us/diversified-financials/nyse-aac/ares-acquisition,AAC,
+/stocks/us/diversified-financials/nyse-pmt/pennymac-mortgage-investment-trust,PMT, ($0.49)
+/stocks/us/diversified-financials/nasdaq-rily/b-riley-financial,RILY, ($15.66)
+/stocks/us/diversified-financials/nyse-px/p10,PX, ($4.73)
+/stocks/us/diversified-financials/nyse-enva/enova-international,ENVA, ($62.51)
+/stocks/us/diversified-financials/nyse-grnt/granite-ridge-resources,GRNT,
+/stocks/us/diversified-financials/nasdaq-bcor/blucora,BCOR,
+/stocks/us/diversified-financials/nasdaq-ecpg/encore-capital-group,ECPG, ($92.46)
+/stocks/us/diversified-financials/nyse-kref/kkr-real-estate-finance-trust,KREF, ($14.65)
+/stocks/us/diversified-financials/nasdaq-ggpi/gores-guggenheim,GGPI,
+/stocks/us/diversified-financials/nyse-mfa/mfa-financial,MFA, ($6.84)
+/stocks/us/diversified-financials/nyse-fbrt/franklin-bsp-realty-trust,FBRT, ($7.68)
+/stocks/us/diversified-financials/nasdaq-hera/ftac-hera-acquisition,HERA,
+/stocks/us/diversified-financials/nyse-cpuh/compute-health-acquisition,CPUH,
+/stocks/us/diversified-financials/nasdaq-cown/cowen,COWN, ($65.12)
+/stocks/us/diversified-financials/nyse-crhc/cohn-robbins-holdings,CRHC,
+/stocks/us/diversified-financials/nasdaq-nymt/new-york-mortgage-trust,NYMT, ($0.1)
+/stocks/us/diversified-financials/nyse-lc/lendingclub,LC, ($34.52)
+/stocks/us/diversified-financials/nyse-dfin/donnelley-financial-solutions,DFIN, ($22.33)
+/stocks/us/diversified-financials/nyse-prpb/cc-neuberger-principal-holdings-ii,PRPB,
+/stocks/us/diversified-financials/nyse-aus/austerlitz-acquisition-corporation-i,AUS, ($0.18)
+/stocks/us/diversified-financials/nasdaq-nrds/nerdwallet,NRDS,
+/stocks/us/diversified-financials/nysemkt-cet/central-securities,CET, ($86.02)
+/stocks/us/diversified-financials/nasdaq-conx/conx,CONX,
+/stocks/us/diversified-financials/nyse-prg/prog-holdings,PRG, ($43.1)
+/stocks/us/diversified-financials/nyse-gdot/green-dot,GDOT, ($11.99)
+/stocks/us/diversified-financials/nasdaq-scrm/screaming-eagle-acquisition,SCRM,
+/stocks/us/diversified-financials/nyse-brsp/brightspire-capital,BRSP,
+/stocks/us/diversified-financials/nyse-noah/noah-holdings,NOAH, ($48.99)
+/stocks/us/diversified-financials/nyse-ac/associated-capital-group,AC,
+/stocks/us/diversified-financials/nyse-lgv/longview-acquisition-ii,LGV,
+/stocks/us/diversified-financials/nyse-pntm/pontem,PNTM,
+/stocks/us/diversified-financials/nyse-gam/general-american-investors,GAM, ($29.25)
+/stocks/us/diversified-financials/nyse-bsig/brightsphere-investment-group,BSIG, ($2.72)
+/stocks/us/diversified-financials/nyse-apgb/apollo-strategic-growth-capital-ii,APGB,
+/stocks/us/diversified-financials/nyse-rwt/redwood-trust,RWT, ($5.49)
+/stocks/us/diversified-financials/nasdaq-dwac/digital-world-acquisition,DWAC,
+/stocks/us/diversified-financials/nyse-efc/ellington-financial,EFC, ($14.47)
+/stocks/us/diversified-financials/nyse-fviv/fortress-value-acquisition-iv,FVIV,
+/stocks/us/diversified-financials/nyse-wt/wisdomtree,WT,
+/stocks/us/diversified-financials/nasdaq-lpro/open-lending,LPRO, ($52.81)
+/stocks/us/diversified-financials/nasdaq-amrk/a-mark-precious-metals,AMRK, ($94.89)
+/stocks/us/diversified-financials/nasdaq-svfa/svf-investment,SVFA,
+/stocks/us/diversified-financials/nyse-eocw/elliott-opportunity-ii,EOCW,
+/stocks/us/diversified-financials/nyse-avan/avanti-acquisition,AVAN,
+/stocks/us/diversified-financials/nasdaq-pwp/perella-weinberg-partners,PWP,
+/stocks/us/diversified-financials/nasdaq-hiii/hudson-executive-investment-iii,HIII,
+/stocks/us/diversified-financials/nyse-boac/bluescape-opportunities-acquisition,BOAC,
+/stocks/us/diversified-financials/nasdaq-btwn/bridgetown-holdings,BTWN,
+/stocks/us/diversified-financials/nyse-arr/armour-residential-reit,ARR,
+/stocks/us/diversified-financials/nyse-vygg/vy-global-growth,VYGG,
+/stocks/us/diversified-financials/nasdaq-scoa/scion-tech-growth-i,SCOA,
+/stocks/us/diversified-financials/nyse-rbac/redball-acquisition,RBAC,
+/stocks/us/diversified-financials/nyse-goac/go-acquisition,GOAC,
+/stocks/us/diversified-financials/nasdaq-lmac.a/liberty-media-acquisition,LMAC.A,
+/stocks/us/diversified-financials/nasdaq-lgac/lazard-growth-acquisition-i,LGAC,
+/stocks/us/diversified-financials/nasdaq-msda/msd-acquisition,MSDA,
+/stocks/us/diversified-financials/nasdaq-slam/slam,SLAM,

@@ -1,0 +1,141 @@
+href,ticker,fair_value
+/stocks/us/commercial-services/nyse-wm/waste-management,WM, ($152.14)
+/stocks/us/commercial-services/nasdaq-ctas/cintas,CTAS, ($312.59)
+/stocks/us/commercial-services/nyse-rsg/republic-services,RSG, ($123.02)
+/stocks/us/commercial-services/nyse-wcn/waste-connections,WCN, ($107.46)
+/stocks/us/commercial-services/nasdaq-csgp/costar-group,CSGP, ($46.25)
+/stocks/us/commercial-services/nasdaq-cprt/copart,CPRT, ($70.31)
+/stocks/us/commercial-services/nasdaq-vrsk/verisk-analytics,VRSK, ($144.08)
+/stocks/us/commercial-services/nyse-efx/equifax,EFX, ($447.34)
+/stocks/us/commercial-services/nyse-rol/rollins,ROL,
+/stocks/us/commercial-services/nyse-j/jacobs-solutions,J, ($236.75)
+/stocks/us/commercial-services/nyse-bah/booz-allen-hamilton-holding,BAH, ($127.16)
+/stocks/us/commercial-services/nyse-ldos/leidos-holdings,LDOS, ($157.52)
+/stocks/us/commercial-services/nyse-tru/transunion,TRU, ($87.9)
+/stocks/us/commercial-services/nyse-nlsn/nielsen-holdings,NLSN, ($62.99)
+/stocks/us/commercial-services/nasdaq-ttek/tetra-tech,TTEK, ($89.29)
+/stocks/us/commercial-services/nyse-rhi/robert-half-international,RHI, ($78.18)
+/stocks/us/commercial-services/nyse-caci/caci-international,CACI, ($476.18)
+/stocks/us/commercial-services/nyse-kbr/kbr,KBR, ($96.69)
+/stocks/us/commercial-services/nyse-clvt/clarivate,CLVT, ($28.06)
+/stocks/us/commercial-services/nyse-clh/clean-harbors,CLH, ($189.62)
+/stocks/us/commercial-services/nyse-saic/science-applications-international,SAIC, ($189.1)
+/stocks/us/commercial-services/nyse-dnb/dun-bradstreet-holdings,DNB, ($26.6)
+/stocks/us/commercial-services/nyse-rba/ritchie-bros-auctioneers,RBA, ($73.9)
+/stocks/us/commercial-services/nyse-fcn/fti-consulting,FCN, ($33.07)
+/stocks/us/commercial-services/nyse-msa/msa-safety,MSA, ($50.63)
+/stocks/us/commercial-services/nasdaq-expo/exponent,EXPO, ($40.67)
+/stocks/us/commercial-services/nyse-iaa/iaa,IAA, ($34.71)
+/stocks/us/commercial-services/nasdaq-drvn/driven-brands-holdings,DRVN, ($1.18)
+/stocks/us/commercial-services/nyse-alit/alight,ALIT, ($48.4)
+/stocks/us/commercial-services/nasdaq-srcl/stericycle,SRCL, ($86.87)
+/stocks/us/commercial-services/nyse-asgn/asgn,ASGN, ($146.13)
+/stocks/us/commercial-services/nyse-nsp/insperity,NSP, ($177.3)
+/stocks/us/commercial-services/nasdaq-cwst/casella-waste-systems,CWST, ($67.44)
+/stocks/us/commercial-services/nyse-tnet/trinet-group,TNET, ($85.2)
+/stocks/us/commercial-services/nyse-man/manpowergroup,MAN, ($230.61)
+/stocks/us/commercial-services/nasdaq-mant/mantech-international,MANT, ($186.79)
+/stocks/us/commercial-services/nyse-unf/unifirst,UNF, ($289.51)
+/stocks/us/commercial-services/nyse-kfy/korn-ferry,KFY, ($168.01)
+/stocks/us/commercial-services/nyse-abm/abm-industries,ABM, ($182.13)
+/stocks/us/commercial-services/nyse-bco/brinks,BCO, ($32.33)
+/stocks/us/commercial-services/nyse-cbz/cbiz,CBZ, ($85.54)
+/stocks/us/commercial-services/nyse-brc/brady,BRC, ($94.98)
+/stocks/us/commercial-services/nasdaq-icfi/icf-international,ICFI, ($174.78)
+/stocks/us/commercial-services/nasdaq-fa/first-advantage,FA, ($26.73)
+/stocks/us/commercial-services/nasdaq-aur/aurora-innovation,AUR,
+/stocks/us/commercial-services/nasdaq-lz/legalzoomcom,LZ, ($15.64)
+/stocks/us/commercial-services/nasdaq-mlkn/millerknoll,MLKN, ($89.44)
+/stocks/us/commercial-services/nasdaq-upwk/upwork,UPWK, ($34.48)
+/stocks/us/commercial-services/nyse-kar/kar-auction-services,KAR, ($27.34)
+/stocks/us/commercial-services/nasdaq-hurn/huron-consulting-group,HURN, ($1.19)
+/stocks/us/commercial-services/nyse-pl/planet-labs-pbc,PL, ($18)
+/stocks/us/commercial-services/nyse-cxw/corecivic,CXW, ($0.43)
+/stocks/us/commercial-services/nyse-hni/hni,HNI, ($64.71)
+/stocks/us/commercial-services/nasdaq-ster/sterling-check,STER, ($46.42)
+/stocks/us/commercial-services/nasdaq-kfrc/kforce,KFRC, ($115.81)
+/stocks/us/commercial-services/nyse-meg/montrose-environmental-group,MEG, ($36.42)
+/stocks/us/commercial-services/nasdaq-hcsg/healthcare-services-group,HCSG, ($15.03)
+/stocks/us/commercial-services/nasdaq-acva/acv-auctions,ACVA, ($77.15)
+/stocks/us/commercial-services/nyse-geo/geo-group,GEO, ($20.73)
+/stocks/us/commercial-services/nyse-licy/li-cycle-holdings,LICY,
+/stocks/us/commercial-services/nyse-scs/steelcase,SCS, ($58.15)
+/stocks/us/commercial-services/nyse-aris/aris-water-solutions,ARIS, ($16.99)
+/stocks/us/commercial-services/nyse-dlx/deluxe,DLX, ($55.23)
+/stocks/us/commercial-services/nasdaq-crai/cra-international,CRAI, ($199.99)
+/stocks/us/commercial-services/nasdaq-matw/matthews-international,MATW, ($35.85)
+/stocks/us/commercial-services/nyse-bv/brightview-holdings,BV, ($36.88)
+/stocks/us/commercial-services/nyse-note/fiscalnote-holdings,NOTE, ($24.46)
+/stocks/us/commercial-services/nasdaq-cmpr/cimpress,CMPR, ($119.81)
+/stocks/us/commercial-services/nasdaq-hcci/heritage-crystal-clean,HCCI, ($37.96)
+/stocks/us/commercial-services/nasdaq-sp/sp-plus,SP, ($72.48)
+/stocks/us/commercial-services/nasdaq-kely.a/kelly-services,KELY.A, ($26.07)
+/stocks/us/commercial-services/nyse-tbi/trueblue,TBI, ($46.4)
+/stocks/us/commercial-services/nyse-fc/franklin-covey,FC, ($112.48)
+/stocks/us/commercial-services/nasdaq-bbsi/barrett-business-services,BBSI, ($179.5)
+/stocks/us/commercial-services/nasdaq-forr/forrester-research,FORR, ($45.55)
+/stocks/us/commercial-services/nasdaq-vsec/vse,VSEC, ($510.14)
+/stocks/us/commercial-services/nyse-vvi/viad,VVI,
+/stocks/us/commercial-services/nasdaq-tile/interface,TILE, ($0.89)
+/stocks/us/commercial-services/nasdaq-rgp/resources-connection,RGP, ($5.28)
+/stocks/us/commercial-services/nyse-hrt/hireright-holdings,HRT, ($40.23)
+/stocks/us/commercial-services/nyse-ebf/ennis,EBF, ($20.4)
+/stocks/us/commercial-services/nasdaq-hsii/heidrick-struggles-international,HSII, ($24.41)
+/stocks/us/commercial-services/nyse-pbi/pitney-bowes,PBI, ($9.79)
+/stocks/us/commercial-services/nyse-acco/acco-brands,ACCO, ($25.74)
+/stocks/us/commercial-services/nyse-hsc/harsco,HSC, ($9.98)
+/stocks/us/commercial-services/nasdaq-ceco/ceco-environmental,CECO, ($27.79)
+/stocks/us/commercial-services/nyse-cveo/civeo,CVEO, ($100.09)
+/stocks/us/commercial-services/nyse-nl/nl-industries,NL, ($7.15)
+/stocks/us/commercial-services/nasdaq-kbal/kimball-international,KBAL, ($26.23)
+/stocks/us/commercial-services/nyse-skil/skillsoft,SKIL, ($14.76)
+/stocks/us/commercial-services/nasdaq-rdvt/red-violet,RDVT, ($3.59)
+/stocks/us/commercial-services/nasdaq-atcx/atlas-technical-consultants,ATCX, ($15.55)
+/stocks/us/commercial-services/nysemkt-cix/compx-international,CIX,
+/stocks/us/commercial-services/nasdaq-wldn/willdan-group,WLDN, ($80.96)
+/stocks/us/commercial-services/nasdaq-hqi/hirequest,HQI, ($50.64)
+/stocks/us/commercial-services/nyse-bksy/blacksky-technology,BKSY, ($256.76)
+/stocks/us/commercial-services/nyse-hil/hill-international,HIL,
+/stocks/us/commercial-services/nyse-quad/quad-graphics,QUAD, ($1.19)
+/stocks/us/commercial-services/nasdaq-pfmt/performant-financial,PFMT,
+/stocks/us/commercial-services/nyse-spir/spire-global,SPIR, ($0.52)
+/stocks/us/commercial-services/nasdaq-dlhc/dlh-holdings,DLHC, ($43.82)
+/stocks/us/commercial-services/nasdaq-rcmt/rcm-technologies,RCMT, ($23.56)
+/stocks/us/commercial-services/nasdaq-qrhc/quest-resource-holding,QRHC, ($8.24)
+/stocks/us/commercial-services/nysemkt-mhh/mastech-digital,MHH, ($48.89)
+/stocks/us/commercial-services/nyse-bgsf/bgsf,BGSF, ($13.41)
+/stocks/us/commercial-services/nyse-mg/mistras-group,MG, ($17.05)
+/stocks/us/commercial-services/nyse-arc/arc-document-solutions,ARC,
+/stocks/us/commercial-services/nasdaq-kscp/knightscope,KSCP,
+/stocks/us/commercial-services/nysemkt-acu/acme-united,ACU, ($11.43)
+/stocks/us/commercial-services/nysemkt-job/gee-group,JOB, ($4.47)
+/stocks/us/commercial-services/nasdaq-pixy/shiftpixy,PIXY,
+/stocks/us/commercial-services/nasdaq-hson/hudson-global,HSON, ($101.76)
+/stocks/us/commercial-services/nasdaq-cih/china-index-holdings,CIH, ($7.15)
+/stocks/us/commercial-services/nasdaq-epow/sunrise-new-energy,EPOW,
+/stocks/us/commercial-services/nasdaq-wfcf/where-food-comes-from,WFCF, ($14.69)
+/stocks/us/commercial-services/nasdaq-virc/virco-mfg,VIRC,
+/stocks/us/commercial-services/nasdaq-aqms/aqua-metals,AQMS,
+/stocks/us/commercial-services/nasdaq-omex/odyssey-marine-exploration,OMEX, ($62.09)
+/stocks/us/commercial-services/nyse-chra/charah-solutions,CHRA,
+/stocks/us/commercial-services/nasdaq-pesi/perma-fix-environmental-services,PESI,
+/stocks/us/commercial-services/nyse-atto/atento,ATTO,
+/stocks/us/commercial-services/nasdaq-ftek/fuel-tech,FTEK,
+/stocks/us/commercial-services/nyse-tisi/team,TISI,
+/stocks/us/commercial-services/nysemkt-dss/dss,DSS,
+/stocks/us/commercial-services/nyse-sos/sos,SOS,
+/stocks/us/commercial-services/nyse-shpw/shapeways-holdings,SHPW,
+/stocks/us/commercial-services/nasdaq-creg/smart-powerr,CREG,
+/stocks/us/commercial-services/nasdaq-whlm/wilhelmina-international,WHLM, ($31.06)
+/stocks/us/commercial-services/nasdaq-vivk/vivakor,VIVK,
+/stocks/us/commercial-services/nasdaq-tomz/tomi-environmental-solutions,TOMZ,
+/stocks/us/commercial-services/nasdaq-gwav/greenwave-technology-solutions,GWAV,
+/stocks/us/commercial-services/nasdaq-atif/atif-holdings,ATIF,
+/stocks/us/commercial-services/nasdaq-rcrt/recruitercom-group,RCRT,
+/stocks/us/commercial-services/nysemkt-awx/avalon-holdings,AWX,
+/stocks/us/commercial-services/nasdaq-gfai/guardforce-ai,GFAI,
+/stocks/us/commercial-services/nasdaq-jan/janone,JAN,
+/stocks/us/commercial-services/nasdaq-sntg/sentage-holdings,SNTG,
+/stocks/us/commercial-services/nasdaq-staf/staffing-360-solutions,STAF,
+/stocks/us/commercial-services/nasdaq-qh/quhuo,QH,
+/stocks/us/commercial-services/nasdaq-areb/american-rebel-holdings,AREB,

@@ -1,0 +1,169 @@
+href,ticker,fair_value
+/stocks/us/tech/nasdaq-aapl/apple,AAPL, ($138.63)
+/stocks/us/tech/nasdaq-csco/cisco-systems,CSCO, ($71.52)
+/stocks/us/tech/nyse-aph/amphenol,APH, ($66.08)
+/stocks/us/tech/nyse-msi/motorola-solutions,MSI, ($266.65)
+/stocks/us/tech/nyse-tel/te-connectivity,TEL, ($127.05)
+/stocks/us/tech/nyse-anet/arista-networks,ANET, ($161.79)
+/stocks/us/tech/nyse-hpq/hp,HPQ, ($35.03)
+/stocks/us/tech/nyse-dell/dell-technologies,DELL, ($69.79)
+/stocks/us/tech/nyse-keys/keysight-technologies,KEYS, ($165.92)
+/stocks/us/tech/nyse-glw/corning,GLW, ($43.52)
+/stocks/us/tech/nasdaq-cdw/cdw,CDW, ($178.3)
+/stocks/us/tech/nasdaq-mbly/mobileye-global,MBLY, ($10.97)
+/stocks/us/tech/nyse-hpe/hewlett-packard-enterprise,HPE, ($30.84)
+/stocks/us/tech/nyse-tdy/teledyne-technologies,TDY, ($407.3)
+/stocks/us/tech/nyse-ui/ubiquiti,UI, ($63.58)
+/stocks/us/tech/nasdaq-ntap/netapp,NTAP, ($123.55)
+/stocks/us/tech/nasdaq-trmb/trimble,TRMB, ($63.81)
+/stocks/us/tech/nasdaq-zbra/zebra-technologies,ZBRA, ($498.9)
+/stocks/us/tech/nasdaq-wdc/western-digital,WDC, ($49.03)
+/stocks/us/tech/nasdaq-stx/seagate-technology-holdings,STX, ($88.25)
+/stocks/us/tech/nyse-jnpr/juniper-networks,JNPR, ($78.38)
+/stocks/us/tech/nyse-snx/td-synnex,SNX, ($289.4)
+/stocks/us/tech/nyse-pstg/pure-storage,PSTG, ($32.35)
+/stocks/us/tech/nasdaq-flex/flex,FLEX, ($30.33)
+/stocks/us/tech/nyse-jbl/jabil,JBL, ($174.73)
+/stocks/us/tech/nasdaq-ffiv/f5,FFIV, ($410.34)
+/stocks/us/tech/nasdaq-cgnx/cognex,CGNX, ($32.46)
+/stocks/us/tech/nyse-arw/arrow-electronics,ARW,
+/stocks/us/tech/nyse-cien/ciena,CIEN, ($65.23)
+/stocks/us/tech/nasdaq-lfus/littelfuse,LFUS, ($274.31)
+/stocks/us/tech/nasdaq-novt/novanta,NOVT, ($96.72)
+/stocks/us/tech/nasdaq-nati/national-instruments,NATI, ($64.75)
+/stocks/us/tech/nasdaq-cohr/coherent,COHR, ($31.75)
+/stocks/us/tech/nyse-fn/fabrinet,FN, ($111.7)
+/stocks/us/tech/nyse-calx/calix,CALX, ($0.63)
+/stocks/us/tech/nasdaq-ipgp/ipg-photonics,IPGP, ($77.42)
+/stocks/us/tech/nasdaq-smci/super-micro-computer,SMCI, ($28.72)
+/stocks/us/tech/nasdaq-avt/avnet,AVT, ($88.16)
+/stocks/us/tech/nasdaq-sanm/sanmina,SANM, ($151.94)
+/stocks/us/tech/nasdaq-lite/lumentum-holdings,LITE, ($93.9)
+/stocks/us/tech/nasdaq-nsit/insight-enterprises,NSIT, ($135.56)
+/stocks/us/tech/nyse-bdc/belden,BDC, ($80.96)
+/stocks/us/tech/nyse-bmi/badger-meter,BMI, ($62.49)
+/stocks/us/tech/nasdaq-aeis/advanced-energy-industries,AEIS, ($112.05)
+/stocks/us/tech/nyse-vnt/vontier,VNT, ($40.33)
+/stocks/us/tech/nyse-vsh/vishay-intertechnology,VSH, ($36.42)
+/stocks/us/tech/nasdaq-plxs/plexus,PLXS, ($89.32)
+/stocks/us/tech/nasdaq-ntct/netscout-systems,NTCT, ($38.54)
+/stocks/us/tech/nasdaq-viav/viavi-solutions,VIAV, ($16.44)
+/stocks/us/tech/nasdaq-vsat/viasat,VSAT, ($4.24)
+/stocks/us/tech/nasdaq-itri/itron,ITRI, ($107.56)
+/stocks/us/tech/nasdaq-extr/extreme-networks,EXTR, ($25.71)
+/stocks/us/tech/nasdaq-xrx/xerox-holdings,XRX, ($35.28)
+/stocks/us/tech/nyse-rog/rogers,ROG,
+/stocks/us/tech/nasdaq-comm/commscope-holding,COMM, ($65.99)
+/stocks/us/tech/nasdaq-crsr/corsair-gaming,CRSR, ($16.92)
+/stocks/us/tech/nyse-mei/methode-electronics,MEI, ($39.37)
+/stocks/us/tech/nasdaq-ttmi/ttm-technologies,TTMI, ($12.6)
+/stocks/us/tech/nasdaq-adtn/adtran-holdings,ADTN, ($2.92)
+/stocks/us/tech/nasdaq-osis/osi-systems,OSIS, ($143.53)
+/stocks/us/tech/nasdaq-infn/infinera,INFN, ($39.68)
+/stocks/us/tech/nasdaq-hlit/harmonic,HLIT,
+/stocks/us/tech/nasdaq-dgii/digi-international,DGII, ($57.25)
+/stocks/us/tech/nasdaq-plus/eplus,PLUS, ($62.33)
+/stocks/us/tech/nyse-kn/knowles,KN, ($10.2)
+/stocks/us/tech/nyse-cts/cts,CTS, ($28.5)
+/stocks/us/tech/nasdaq-cnxn/pc-connection,CNXN, ($69.23)
+/stocks/us/tech/nyse-mir/mirion-technologies,MIR, ($10.45)
+/stocks/us/tech/nasdaq-clfd/clearfield,CLFD,
+/stocks/us/tech/nasdaq-avid/avid-technology,AVID, ($36.13)
+/stocks/us/tech/nyse-ionq/ionq,IONQ,
+/stocks/us/tech/nasdaq-holi/hollysys-automation-technologies,HOLI, ($4.25)
+/stocks/us/tech/nyse-bhe/benchmark-electronics,BHE, ($170.44)
+/stocks/us/tech/nysemkt-satx/satixfy-communications,SATX,
+/stocks/us/tech/nasdaq-nssc/napco-security-technologies,NSSC, ($38.69)
+/stocks/us/tech/nasdaq-rdwr/radware,RDWR, ($13.33)
+/stocks/us/tech/nasdaq-lwlg/lightwave-logic,LWLG,
+/stocks/us/tech/nasdaq-ssys/stratasys,SSYS, ($7.42)
+/stocks/us/tech/nasdaq-scsc/scansource,SCSC, ($154.34)
+/stocks/us/tech/nyse-par/par-technology,PAR,
+/stocks/us/tech/nasdaq-invz/innoviz-technologies,INVZ, ($8.88)
+/stocks/us/tech/nasdaq-nndm/nano-dimension,NNDM,
+/stocks/us/tech/nasdaq-audc/audiocodes,AUDC, ($31.23)
+/stocks/us/tech/nasdaq-faro/faro-technologies,FARO, ($218.54)
+/stocks/us/tech/nasdaq-cmbm/cambium-networks,CMBM, ($43.32)
+/stocks/us/tech/nasdaq-ke/kimball-electronics,KE, ($55.01)
+/stocks/us/tech/nasdaq-mvis/microvision,MVIS,
+/stocks/us/tech/nasdaq-ntgr/netgear,NTGR,
+/stocks/us/tech/nasdaq-fcuv/focus-universal,FCUV,
+/stocks/us/tech/nyse-vpg/vishay-precision-group,VPG, ($27.73)
+/stocks/us/tech/nyse-smrt/smartrent,SMRT, ($25.52)
+/stocks/us/tech/nasdaq-evlv/evolv-technologies-holdings,EVLV,
+/stocks/us/tech/nasdaq-lasr/nlight,LASR,
+/stocks/us/tech/nasdaq-mass/908-devices,MASS,
+/stocks/us/tech/nasdaq-itrn/ituran-location-and-control,ITRN, ($14.67)
+/stocks/us/tech/nasdaq-can/canaan,CAN, ($27.99)
+/stocks/us/tech/nasdaq-rbbn/ribbon-communications,RBBN, ($1.68)
+/stocks/us/tech/nasdaq-belf.a/bel-fuse,BELF.A, ($13.82)
+/stocks/us/tech/nasdaq-dzsi/dzs,DZSI, ($33.82)
+/stocks/us/tech/nyse-aeva/aeva-technologies,AEVA, ($8.6)
+/stocks/us/tech/nasdaq-cmpo/composecure,CMPO, ($8.24)
+/stocks/us/tech/nyse-kodk/eastman-kodak,KODK,
+/stocks/us/tech/nasdaq-avnw/aviat-networks,AVNW, ($94.34)
+/stocks/us/tech/nasdaq-gilt/gilat-satellite-networks,GILT, ($5.02)
+/stocks/us/tech/nyse-arlo/arlo-technologies,ARLO,
+/stocks/us/tech/nasdaq-rell/richardson-electronics,RELL, ($63.53)
+/stocks/us/tech/nasdaq-cmtl/comtech-telecommunications,CMTL, ($35.09)
+/stocks/us/tech/nasdaq-silc/silicom,SILC,
+/stocks/us/tech/nasdaq-cptn/cepton,CPTN,
+/stocks/us/tech/nasdaq-pmts/cpi-card-group,PMTS, ($3.03)
+/stocks/us/tech/nasdaq-arbe/arbe-robotics,ARBE, ($93.77)
+/stocks/us/tech/nasdaq-casa/casa-systems,CASA, ($1.95)
+/stocks/us/tech/nasdaq-inve/identiv,INVE,
+/stocks/us/tech/nasdaq-vldr/velodyne-lidar,VLDR, ($1.57)
+/stocks/us/tech/nyse-oust/ouster,OUST,
+/stocks/us/tech/nasdaq-kvhi/kvh-industries,KVHI,
+/stocks/us/tech/nasdaq-akts/akoustis-technologies,AKTS,
+/stocks/us/tech/nasdaq-ltrx/lantronix,LTRX,
+/stocks/us/tech/nasdaq-troo/troops,TROO, ($0.58)
+/stocks/us/tech/nasdaq-immr/immersion,IMMR, ($40.8)
+/stocks/us/tech/nyse-dbd/diebold-nixdorf,DBD, ($25.54)
+/stocks/us/tech/nasdaq-luna/luna-innovations,LUNA, ($19.7)
+/stocks/us/tech/nasdaq-dakt/daktronics,DAKT,
+/stocks/us/tech/nasdaq-crnt/ceragon-networks,CRNT,
+/stocks/us/tech/nasdaq-alpp/alpine-4-holdings,ALPP,
+/stocks/us/tech/nasdaq-insg/inseego,INSG, ($3.18)
+/stocks/us/tech/nysemkt-mimo/airspan-networks-holdings,MIMO, ($42.69)
+/stocks/us/tech/nasdaq-onds/ondas-holdings,ONDS,
+/stocks/us/tech/nasdaq-clmb/climb-global-solutions,CLMB, ($10.52)
+/stocks/us/tech/nasdaq-qmco/quantum,QMCO,
+/stocks/us/tech/nasdaq-hear/turtle-beach,HEAR, ($22.71)
+/stocks/us/tech/nasdaq-ivac/intevac,IVAC,
+/stocks/us/tech/nasdaq-iti/iteris,ITI,
+/stocks/us/tech/nasdaq-lidr/aeye,LIDR, ($9.17)
+/stocks/us/tech/nasdaq-camp/calamp,CAMP,
+/stocks/us/tech/nasdaq-gnss/genasys,GNSS, ($0.71)
+/stocks/us/tech/nasdaq-holo/microcloud-hologram,HOLO, ($2.83)
+/stocks/us/tech/nasdaq-mict/mict,MICT,
+/stocks/us/tech/nasdaq-sotk/sono-tek,SOTK, ($0.64)
+/stocks/us/tech/nasdaq-pwfl/powerfleet,PWFL,
+/stocks/us/tech/nasdaq-alot/astronova,ALOT,
+/stocks/us/tech/nasdaq-pcti/pctel,PCTI, ($2.76)
+/stocks/us/tech/nasdaq-refr/research-frontiers,REFR,
+/stocks/us/tech/nyse-zepp/zepp-health,ZEPP,
+/stocks/us/tech/nasdaq-airg/airgain,AIRG,
+/stocks/us/tech/nysemkt-knw/know-labs,KNW,
+/stocks/us/tech/nasdaq-move/movano,MOVE,
+/stocks/us/tech/nasdaq-wrap/wrap-technologies,WRAP,
+/stocks/us/tech/nasdaq-coda/coda-octopus-group,CODA, ($6.16)
+/stocks/us/tech/nasdaq-oss/one-stop-systems,OSS,
+/stocks/us/tech/nasdaq-aaoi/applied-optoelectronics,AAOI,
+/stocks/us/tech/nasdaq-link/interlink-electronics,LINK,
+/stocks/us/tech/nasdaq-rcat/red-cat-holdings,RCAT,
+/stocks/us/tech/nasdaq-emkr/emcore,EMKR, ($15.84)
+/stocks/us/tech/nasdaq-ebon/ebang-international-holdings,EBON,
+/stocks/us/tech/nysemkt-ntip/network-1-technologies,NTIP, ($1.04)
+/stocks/us/tech/nasdaq-rfil/rf-industries,RFIL, ($66.37)
+/stocks/us/tech/nasdaq-ktcc/key-tronic,KTCC,
+/stocks/us/tech/nasdaq-dswl/deswell-industries,DSWL, ($3.09)
+/stocks/us/tech/nasdaq-neon/neonode,NEON, ($14.86)
+/stocks/us/tech/nasdaq-feim/frequency-electronics,FEIM,
+/stocks/us/tech/nasdaq-cpsh/cps-technologies,CPSH, ($2.48)
+/stocks/us/tech/nasdaq-tess/tessco-technologies,TESS,
+/stocks/us/tech/nysemkt-bkti/bk-technologies,BKTI, ($0.57)
+/stocks/us/tech/nasdaq-tact/transact-technologies,TACT,
+/stocks/us/tech/nasdaq-fkwl/franklin-wireless,FKWL,
+/stocks/us/tech/nasdaq-snt/senstar-technologies,SNT, ($3.91)
+/stocks/us/tech/nyse-viao/via-optronics,VIAO, ($2.07)

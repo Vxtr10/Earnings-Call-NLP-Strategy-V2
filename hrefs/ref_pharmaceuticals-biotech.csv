@@ -1,0 +1,168 @@
+href,ticker,fair_value
+/stocks/us/pharmaceuticals-biotech/nyse-jnj/johnson-johnson,JNJ, ($213.78)
+/stocks/us/pharmaceuticals-biotech/nyse-lly/eli-lilly,LLY, ($344.57)
+/stocks/us/pharmaceuticals-biotech/nyse-pfe/pfizer,PFE, ($104.09)
+/stocks/us/pharmaceuticals-biotech/nyse-abbv/abbvie,ABBV, ($308.36)
+/stocks/us/pharmaceuticals-biotech/nyse-mrk/merck,MRK, ($209.73)
+/stocks/us/pharmaceuticals-biotech/nyse-tmo/thermo-fisher-scientific,TMO, ($790.84)
+/stocks/us/pharmaceuticals-biotech/nyse-dhr/danaher,DHR, ($274.02)
+/stocks/us/pharmaceuticals-biotech/nyse-bmy/bristol-myers-squibb,BMY, ($126.61)
+/stocks/us/pharmaceuticals-biotech/nasdaq-amgn/amgen,AMGN, ($426.9)
+/stocks/us/pharmaceuticals-biotech/nasdaq-gild/gilead-sciences,GILD, ($148.11)
+/stocks/us/pharmaceuticals-biotech/nasdaq-regn/regeneron-pharmaceuticals,REGN, ($770.66)
+/stocks/us/pharmaceuticals-biotech/nasdaq-vrtx/vertex-pharmaceuticals,VRTX, ($493.82)
+/stocks/us/pharmaceuticals-biotech/nyse-zts/zoetis,ZTS, ($169.91)
+/stocks/us/pharmaceuticals-biotech/nasdaq-mrna/moderna,MRNA, ($31.58)
+/stocks/us/pharmaceuticals-biotech/nyse-a/agilent-technologies,A, ($111.28)
+/stocks/us/pharmaceuticals-biotech/nyse-iqv/iqvia-holdings,IQV, ($302.01)
+/stocks/us/pharmaceuticals-biotech/nasdaq-biib/biogen,BIIB, ($379.5)
+/stocks/us/pharmaceuticals-biotech/nasdaq-ilmn/illumina,ILMN, ($357.86)
+/stocks/us/pharmaceuticals-biotech/nasdaq-bntx/biontech,BNTX, ($90.27)
+/stocks/us/pharmaceuticals-biotech/nyse-mtd/mettler-toledo-international,MTD, ($933.01)
+/stocks/us/pharmaceuticals-biotech/nasdaq-rprx/royalty-pharma,RPRX, ($103.25)
+/stocks/us/pharmaceuticals-biotech/nasdaq-alny/alnylam-pharmaceuticals,ALNY, ($504.25)
+/stocks/us/pharmaceuticals-biotech/nasdaq-sgen/seagen,SGEN, ($318.41)
+/stocks/us/pharmaceuticals-biotech/nasdaq-bgne/beigene,BGNE, ($686.03)
+/stocks/us/pharmaceuticals-biotech/nyse-wst/west-pharmaceutical-services,WST, ($197.01)
+/stocks/us/pharmaceuticals-biotech/nasdaq-iclr/icon,ICLR, ($281.21)
+/stocks/us/pharmaceuticals-biotech/nasdaq-hznp/horizon-therapeutics,HZNP, ($205.57)
+/stocks/us/pharmaceuticals-biotech/nasdaq-incy/incyte,INCY, ($233.2)
+/stocks/us/pharmaceuticals-biotech/nyse-pki/perkinelmer,PKI, ($225.71)
+/stocks/us/pharmaceuticals-biotech/nasdaq-bmrn/biomarin-pharmaceutical,BMRN, ($198.34)
+/stocks/us/pharmaceuticals-biotech/nyse-avtr/avantor,AVTR, ($23.87)
+/stocks/us/pharmaceuticals-biotech/nasdaq-vtrs/viatris,VTRS, ($43.61)
+/stocks/us/pharmaceuticals-biotech/nasdaq-tech/bio-techne,TECH, ($326.52)
+/stocks/us/pharmaceuticals-biotech/nyse-bio/bio-rad-laboratories,BIO, ($384.33)
+/stocks/us/pharmaceuticals-biotech/nyse-crl/charles-river-laboratories-international,CRL, ($231.68)
+/stocks/us/pharmaceuticals-biotech/nasdaq-uthr/united-therapeutics,UTHR, ($678.57)
+/stocks/us/pharmaceuticals-biotech/nasdaq-nbix/neurocrine-biosciences,NBIX, ($297.16)
+/stocks/us/pharmaceuticals-biotech/nyse-qgen/qiagen,QGEN, ($40.12)
+/stocks/us/pharmaceuticals-biotech/nasdaq-rgen/repligen,RGEN, ($179.83)
+/stocks/us/pharmaceuticals-biotech/nyse-teva/teva-pharmaceutical-industries,TEVA, ($41.51)
+/stocks/us/pharmaceuticals-biotech/nasdaq-brkr/bruker,BRKR, ($43.96)
+/stocks/us/pharmaceuticals-biotech/nasdaq-jazz/jazz-pharmaceuticals,JAZZ, ($561.29)
+/stocks/us/pharmaceuticals-biotech/nasdaq-srpt/sarepta-therapeutics,SRPT, ($732.44)
+/stocks/us/pharmaceuticals-biotech/nasdaq-legn/legend-biotech,LEGN, ($230.38)
+/stocks/us/pharmaceuticals-biotech/nyse-ctlt/catalent,CTLT, ($62.91)
+/stocks/us/pharmaceuticals-biotech/nasdaq-krtx/karuna-therapeutics,KRTX, ($1130.07)
+/stocks/us/pharmaceuticals-biotech/nasdaq-exas/exact-sciences,EXAS, ($149.9)
+/stocks/us/pharmaceuticals-biotech/nasdaq-asnd/ascendis-pharma,ASND, ($21.83)
+/stocks/us/pharmaceuticals-biotech/nasdaq-halo/halozyme-therapeutics,HALO, ($153.15)
+/stocks/us/pharmaceuticals-biotech/nasdaq-medp/medpace-holdings,MEDP, ($362.38)
+/stocks/us/pharmaceuticals-biotech/nasdaq-ions/ionis-pharmaceuticals,IONS, ($176.3)
+/stocks/us/pharmaceuticals-biotech/nyse-ogn/organon,OGN, ($117.23)
+/stocks/us/pharmaceuticals-biotech/nyse-elan/elanco-animal-health,ELAN, ($62.33)
+/stocks/us/pharmaceuticals-biotech/nasdaq-exel/exelixis,EXEL, ($42.08)
+/stocks/us/pharmaceuticals-biotech/nasdaq-apls/apellis-pharmaceuticals,APLS, ($435.49)
+/stocks/us/pharmaceuticals-biotech/nasdaq-itci/intra-cellular-therapies,ITCI, ($406.03)
+/stocks/us/pharmaceuticals-biotech/nasdaq-gbt/global-blood-therapeutics,GBT, ($195.86)
+/stocks/us/pharmaceuticals-biotech/nyse-prgo/perrigo,PRGO, ($86.25)
+/stocks/us/pharmaceuticals-biotech/nasdaq-cere/cerevel-therapeutics-holdings,CERE,
+/stocks/us/pharmaceuticals-biotech/nasdaq-txg/10x-genomics,TXG, ($60.48)
+/stocks/us/pharmaceuticals-biotech/nasdaq-crsp/crispr-therapeutics,CRSP,
+/stocks/us/pharmaceuticals-biotech/nasdaq-ntla/intellia-therapeutics,NTLA,
+/stocks/us/pharmaceuticals-biotech/nasdaq-dnli/denali-therapeutics,DNLI,
+/stocks/us/pharmaceuticals-biotech/nasdaq-mrtx/mirati-therapeutics,MRTX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-alks/alkermes,ALKS, ($57.97)
+/stocks/us/pharmaceuticals-biotech/nyse-stvn/stevanato-group,STVN, ($54.44)
+/stocks/us/pharmaceuticals-biotech/nasdaq-tptx/turning-point-therapeutics,TPTX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-roiv/roivant-sciences,ROIV,
+/stocks/us/pharmaceuticals-biotech/nasdaq-ccxi/chemocentryx,CCXI, ($235.72)
+/stocks/us/pharmaceuticals-biotech/nasdaq-ntra/natera,NTRA, ($15.31)
+/stocks/us/pharmaceuticals-biotech/nasdaq-cytk/cytokinetics,CYTK,
+/stocks/us/pharmaceuticals-biotech/nasdaq-abcl/abcellera-biologics,ABCL,
+/stocks/us/pharmaceuticals-biotech/nasdaq-arwr/arrowhead-pharmaceuticals,ARWR,
+/stocks/us/pharmaceuticals-biotech/nasdaq-vir/vir-biotechnology,VIR,
+/stocks/us/pharmaceuticals-biotech/nasdaq-mrvi/maravai-lifesciences-holdings,MRVI, ($9.06)
+/stocks/us/pharmaceuticals-biotech/nasdaq-pcvx/vaxcyte,PCVX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-azta/azenta,AZTA, ($124.98)
+/stocks/us/pharmaceuticals-biotech/nasdaq-hrmy/harmony-biosciences-holdings,HRMY, ($334.78)
+/stocks/us/pharmaceuticals-biotech/nasdaq-synh/syneos-health,SYNH, ($92.53)
+/stocks/us/pharmaceuticals-biotech/nasdaq-fold/amicus-therapeutics,FOLD, ($38.4)
+/stocks/us/pharmaceuticals-biotech/nasdaq-beam/beam-therapeutics,BEAM,
+/stocks/us/pharmaceuticals-biotech/nasdaq-zlab/zai-lab,ZLAB,
+/stocks/us/pharmaceuticals-biotech/nyse-pbh/prestige-consumer-healthcare,PBH, ($120.23)
+/stocks/us/pharmaceuticals-biotech/nasdaq-cort/corcept-therapeutics,CORT, ($59.5)
+/stocks/us/pharmaceuticals-biotech/nasdaq-prta/prothena,PRTA,
+/stocks/us/pharmaceuticals-biotech/nasdaq-ptct/ptc-therapeutics,PTCT, ($226.26)
+/stocks/us/pharmaceuticals-biotech/nyse-bhc/bausch-health-companies,BHC, ($58.5)
+/stocks/us/pharmaceuticals-biotech/nasdaq-acad/acadia-pharmaceuticals,ACAD, ($76.76)
+/stocks/us/pharmaceuticals-biotech/nasdaq-rare/ultragenyx-pharmaceutical,RARE,
+/stocks/us/pharmaceuticals-biotech/nasdaq-insm/insmed,INSM, ($27.77)
+/stocks/us/pharmaceuticals-biotech/nasdaq-imcr/immunocore-holdings,IMCR, ($104.76)
+/stocks/us/pharmaceuticals-biotech/nasdaq-bpmc/blueprint-medicines,BPMC,
+/stocks/us/pharmaceuticals-biotech/nyse-myov/myovant-sciences,MYOV, ($207.92)
+/stocks/us/pharmaceuticals-biotech/nasdaq-axsm/axsome-therapeutics,AXSM, ($427.48)
+/stocks/us/pharmaceuticals-biotech/nasdaq-prok/prokidney,PROK,
+/stocks/us/pharmaceuticals-biotech/nasdaq-arvn/arvinas,ARVN,
+/stocks/us/pharmaceuticals-biotech/nasdaq-rlay/relay-therapeutics,RLAY,
+/stocks/us/pharmaceuticals-biotech/nasdaq-bcrx/biocryst-pharmaceuticals,BCRX, ($60.76)
+/stocks/us/pharmaceuticals-biotech/nasdaq-pcrx/pacira-biosciences,PCRX, ($214.98)
+/stocks/us/pharmaceuticals-biotech/nasdaq-olk/olink-holding,OLK,
+/stocks/us/pharmaceuticals-biotech/nasdaq-tlry/tilray-brands,TLRY, ($7.53)
+/stocks/us/pharmaceuticals-biotech/nasdaq-amlx/amylyx-pharmaceuticals,AMLX, ($240.96)
+/stocks/us/pharmaceuticals-biotech/nasdaq-isee/iveric-bio,ISEE, ($161.5)
+/stocks/us/pharmaceuticals-biotech/nasdaq-pacb/pacific-biosciences-of-california,PACB,
+/stocks/us/pharmaceuticals-biotech/nasdaq-xene/xenon-pharmaceuticals,XENE, ($7.01)
+/stocks/us/pharmaceuticals-biotech/nasdaq-rxrx/recursion-pharmaceuticals,RXRX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-ibrx/immunitybio,IBRX, ($65.24)
+/stocks/us/pharmaceuticals-biotech/nasdaq-sage/sage-therapeutics,SAGE, ($64.35)
+/stocks/us/pharmaceuticals-biotech/nasdaq-fate/fate-therapeutics,FATE,
+/stocks/us/pharmaceuticals-biotech/nyse-rcus/arcus-biosciences,RCUS,
+/stocks/us/pharmaceuticals-biotech/nasdaq-rxdx/prometheus-biosciences,RXDX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-vcyt/veracyte,VCYT, ($2.9)
+/stocks/us/pharmaceuticals-biotech/nasdaq-krys/krystal-biotech,KRYS, ($446.84)
+/stocks/us/pharmaceuticals-biotech/nasdaq-shc/sotera-health,SHC, ($23.54)
+/stocks/us/pharmaceuticals-biotech/nasdaq-ctkb/cytek-biosciences,CTKB,
+/stocks/us/pharmaceuticals-biotech/nasdaq-twst/twist-bioscience,TWST,
+/stocks/us/pharmaceuticals-biotech/nasdaq-rvmd/revolution-medicines,RVMD,
+/stocks/us/pharmaceuticals-biotech/nasdaq-rvnc/revance-therapeutics,RVNC, ($164)
+/stocks/us/pharmaceuticals-biotech/nasdaq-akro/akero-therapeutics,AKRO,
+/stocks/us/pharmaceuticals-biotech/nasdaq-eqrx/eqrx,EQRX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-supn/supernus-pharmaceuticals,SUPN, ($149.73)
+/stocks/us/pharmaceuticals-biotech/nasdaq-xncr/xencor,XNCR,
+/stocks/us/pharmaceuticals-biotech/nasdaq-irwd/ironwood-pharmaceuticals,IRWD, ($29.28)
+/stocks/us/pharmaceuticals-biotech/nasdaq-cldx/celldex-therapeutics,CLDX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-nvax/novavax,NVAX, ($167.98)
+/stocks/us/pharmaceuticals-biotech/nasdaq-nuvl/nuvalent,NUVL,
+/stocks/us/pharmaceuticals-biotech/nasdaq-prme/prime-medicine,PRME,
+/stocks/us/pharmaceuticals-biotech/nasdaq-kymr/kymera-therapeutics,KYMR,
+/stocks/us/pharmaceuticals-biotech/nasdaq-mygn/myriad-genetics,MYGN, ($17.2)
+/stocks/us/pharmaceuticals-biotech/nasdaq-dvax/dynavax-technologies,DVAX, ($35.8)
+/stocks/us/pharmaceuticals-biotech/nasdaq-imvt/immunovant,IMVT,
+/stocks/us/pharmaceuticals-biotech/nasdaq-cprx/catalyst-pharmaceuticals,CPRX, ($37.69)
+/stocks/us/pharmaceuticals-biotech/nasdaq-alvo/alvotech,ALVO, ($27.35)
+/stocks/us/pharmaceuticals-biotech/nasdaq-agio/agios-pharmaceuticals,AGIO,
+/stocks/us/pharmaceuticals-biotech/nasdaq-dice/dice-therapeutics,DICE,
+/stocks/us/pharmaceuticals-biotech/nasdaq-dawn/day-one-biopharmaceuticals,DAWN, ($44.16)
+/stocks/us/pharmaceuticals-biotech/nasdaq-bbio/bridgebio-pharma,BBIO,
+/stocks/us/pharmaceuticals-biotech/nasdaq-fgen/fibrogen,FGEN, ($18.83)
+/stocks/us/pharmaceuticals-biotech/nasdaq-vtyx/ventyx-biosciences,VTYX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-swtx/springworks-therapeutics,SWTX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-verv/verve-therapeutics,VERV,
+/stocks/us/pharmaceuticals-biotech/nasdaq-rytm/rhythm-pharmaceuticals,RYTM, ($59.32)
+/stocks/us/pharmaceuticals-biotech/nasdaq-tvtx/travere-therapeutics,TVTX, ($634.62)
+/stocks/us/pharmaceuticals-biotech/nasdaq-sndx/syndax-pharmaceuticals,SNDX, ($162.28)
+/stocks/us/pharmaceuticals-biotech/nasdaq-kdny/chinook-therapeutics,KDNY,
+/stocks/us/pharmaceuticals-biotech/nasdaq-inbx/inhibrx,INBX,
+/stocks/us/pharmaceuticals-biotech/nasdaq-sava/cassava-sciences,SAVA,
+/stocks/us/pharmaceuticals-biotech/nasdaq-lgnd/ligand-pharmaceuticals,LGND, ($156.71)
+/stocks/us/pharmaceuticals-biotech/nasdaq-reta/reata-pharmaceuticals,RETA,
+/stocks/us/pharmaceuticals-biotech/nasdaq-cvac/curevac,CVAC,
+/stocks/us/pharmaceuticals-biotech/nasdaq-amph/amphastar-pharmaceuticals,AMPH, ($63.04)
+/stocks/us/pharmaceuticals-biotech/nasdaq-allo/allogene-therapeutics,ALLO,
+/stocks/us/pharmaceuticals-biotech/nasdaq-iova/iovance-biotherapeutics,IOVA, ($83.04)
+/stocks/us/pharmaceuticals-biotech/nasdaq-rckt/rocket-pharmaceuticals,RCKT, ($145.65)
+/stocks/us/pharmaceuticals-biotech/nasdaq-srra/sierra-oncology,SRRA,
+/stocks/us/pharmaceuticals-biotech/nasdaq-kros/keros-therapeutics,KROS,
+/stocks/us/pharmaceuticals-biotech/nasdaq-adpt/adaptive-biotechnologies,ADPT,
+/stocks/us/pharmaceuticals-biotech/nasdaq-neo/neogenomics,NEO,
+/stocks/us/pharmaceuticals-biotech/nasdaq-imgn/immunogen,IMGN, ($3.72)
+/stocks/us/pharmaceuticals-biotech/nasdaq-lyel/lyell-immunopharma,LYEL,
+/stocks/us/pharmaceuticals-biotech/nasdaq-cinc/cincor-pharma,CINC,
+/stocks/us/pharmaceuticals-biotech/nasdaq-arqt/arcutis-biotherapeutics,ARQT, ($249.02)
+/stocks/us/pharmaceuticals-biotech/nasdaq-mdgl/madrigal-pharmaceuticals,MDGL, ($20.49)
+/stocks/us/pharmaceuticals-biotech/nasdaq-morf/morphic-holding,MORF,
+/stocks/us/pharmaceuticals-biotech/nasdaq-zntl/zentalis-pharmaceuticals,ZNTL,
+/stocks/us/pharmaceuticals-biotech/nasdaq-tgtx/tg-therapeutics,TGTX, ($141.95)
+/stocks/us/pharmaceuticals-biotech/nasdaq-acrs/aclaris-therapeutics,ACRS,
