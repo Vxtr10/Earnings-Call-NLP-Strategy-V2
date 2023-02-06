@@ -11,7 +11,7 @@ Elon Musk: We still have our Dogecoin.
 Zachary Kirkhorn: Despite these challenges, we were still able to achieve one of our strongest operating margins at 14.6%. Our free cash flows were impacted by working capital related to the Shanghai factory shutdown. However, we expect this will show as a benefit in Q3 as our working capital-related cash flows restabilize. As we look ahead and as Elon mentioned, we are positioned for a record-breaking second half of the year. We are quite excited about this. A couple of things to keep in mind as we progress, Austin and Berlin ramp inefficiencies will continue to weigh on our margins for the balance of the year. However, the impact should reduce as we increase ramp. Second, as weâve mentioned before, we expect to continue to see recognized global pricing to increase as our backlog flows through. However, macroeconomic-related cost increases will also continue to be part of our story. And finally, despite losing more builds in Q3 than expected, we are still pushing to reach 50% growth this year. This target has become more difficult, but it remains possible with strong execution and as Elon mentioned, no more force majeure events for the balance of the year.
 Elon Musk: Yes, a lot of force majeure in the last several years, thatâs for sure.
 Zachary Kirkhorn: Thank you.
-A - Martin Viecha: Thank you very much. And now letâs go to the questions from investors. And the first question is, Chinese EV manufacturers seem to be doing a better job than their Western competitors, excluding Tesla, at innovating in software and design. How can Tesla make sure the company is staying ahead of those manufacturers, both within China and outside of China?
+A - Martin Viecha: Thank you very much. And now let us go to the questions from investors. And the first question is, Chinese EV manufacturers seem to be doing a better job than their Western competitors, excluding Tesla, at innovating in software and design. How can Tesla make sure the company is staying ahead of those manufacturers, both within China and outside of China?
 Elon Musk: Well, the â right now, the best Chinese EV manufacturer is Tesla  (ph). We are actually doing the best, thanks to our incredible team in China. But I have a lot of respect for the Chinese, our manufacturers and EV manufacturers in particular. I think they will be a force to be reckoned with worldwide. They are very â they are smart and they are hardworking. And I think anyone who is not â any company thatâs not as competitive as them will obviously suffer a market share decline. So obviously, we have a lot of respect for the current companies in China and then their capabilities, yes.
 Martin Viecha: Thank you. The next question is when will Tesla have a unified vector space for both static and moving object network? Will this be a v11 or later version? If the latter, can you explain what makes it a difficult problem in layman terms?
 Elon Musk: Okay. This answer will be understood by 0.0 -- 01% of the audience, I think. I suppose you wanted to know what a unified vector space would actually mean. It essentially would be if you can take â if instead of netting together static and dynamic objects in C++, if they could be net together at the neural net level, then you donât need to reconcile them within C++ heuristics. That is an architecturally better way to â thatâs the most desirable outcome. Itâs â I think itâs probably not necessary to achieve full self-driving, but it would be a slight improvement in the efficiency of the self-driving. And itâs certainly something we want to get to. Yes. The sort of nirvana situation is you have surround video/audio labeling of all static and dynamic objects. And you have then surround video inference with spatial memory as well. Then thatâs â I mean, I think we are almost certainly there before the end of the year. Yes, I am not sure how many of you would understand that. I should say also, we are also confident of improving the frame rate as we delete some of the legacy neural nets. We think we might be able to get a frame rate of the â of 8  cameras maybe up to 36 FPS, which is actually a lot of frames, considering itâs 8 cameras. Itâs certainly comfortably above 24 frames, which is basically the movie â frame rate of movies.
@@ -119,3 +119,95 @@ Unidentified Analyst: Thank you.
 Martin Viecha: Fantastic. Well, thank you very much. I appreciate all of your questions. Unfortunately, this is all the time we have this quarter, and we will speak to you again in three monthsâ time. Thank you very much, and goodbye.
 Elon Musk: Bye."
 0.25120000000000003
+0.2443317153038235
+0.3669724770642202
+0.11009174311926606
+80.416
+0.2998398016480839
+0.4117647058823529
+0.11764705882352941
+67.08
+0.11960481603940327
+0.16666666666666666
+0.0
+57.61
+0.24206106330073157
+0.37209302325581395
+0.11627906976744186
+63.29
+0.1559633027522936
+0.05504587155963303
+0.040231714446005935
+0.14541387024608501
+0.10514541387024609
+73.79057142857143
+-0.024808876919296553
+0.04716981132075472
+0.07547169811320754
+73.8725
+0.06044961088214102
+0.17595307917888564
+0.11436950146627566
+73.75465753424658
+0.33389581027238263
+0.391304347826087
+0.043478260869565216
+-0.19788638999064764
+0.041666666666666664
+0.25
+0.060146214402451804
+0.17006802721088435
+0.10884353741496598
+-0.1146048977971077
+0.375
+0.5
+0.2262589931488037
+0.3333333333333333
+0.08333333333333333
+0
+0
+0
+0.3333333333333333
+0.3333333333333333
+0.0
+0.24933011829853058
+0.25
+0.0
+0
+0.0
+0
+0.25044867396354675
+0.5
+0.25
+0
+0
+0
+0.36050063371658325
+0.6666666666666666
+0.3333333333333333
+0
+0
+0
+0.920811054430037
+0.8559201491214242
+0.6828243025824229
+0.7715687872053646
+0.7096269936257017
+0.6636829601838196
+0.8936186161030795
+0.7824366346308808
+0.5536703611324136
+0.6902013350622362
+0.6878244852790734
+0.5860661033440656
+0.13743501360553845
+0.23995403999692577
+0.10663874474261203
+0.15015866069241857
+-0.14888909073180545
+0.10032406283968376
+0.1994982137037089
+0.07053258001189211
+0.1126325770750558
+-0.17665818054557092
+601115722719.5859
