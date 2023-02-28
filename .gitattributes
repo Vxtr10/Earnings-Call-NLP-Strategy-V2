@@ -1,0 +1,4 @@
+. filter=lfs diff=lfs merge=lfs -text
+info/rfc_consumer_durables_model.pkl filter=lfs diff=lfs merge=lfs -text
+info/rfc_automobiles_model.pkl filter=lfs diff=lfs merge=lfs -text
+info/rfc_banks_model.pkl filter=lfs diff=lfs merge=lfs -text
