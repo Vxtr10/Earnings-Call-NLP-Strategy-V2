@@ -16,7 +16,10 @@
 5. EPS surprise value
 
 The "EPS surprise value" indicates how much the EPS number released by a company exceeds or falls short of the predicted value by a financial analyst. This information can be used to determine whether the company has exceeded or missed the forecast.
+
+
 **Features extracted from Pre-release/Safe Harbour materials**
+
 5. Whole pre-release’s net sentiment index
 6. Whole pre-release’s positive sentiment index 
 7. Whole pre-release’s negative sentiment index
@@ -56,6 +59,7 @@ Numbers 9 to 22 essentially tries to find any relationship between sentiment and
 
 
 **Features extracted from the Questions & Answers:**
+
 “Questions” are those from analysts
 “Answers” are replies from the management
 
@@ -71,6 +75,7 @@ Numbers 9 to 22 essentially tries to find any relationship between sentiment and
 
 
 **Combining all management replies:**
+
 31. All Reply’s net sentiment index
 32. All Reply’s positive sentiment index
 33. All Reply’s negative sentiment index
@@ -92,6 +97,7 @@ In the Q&A section, analysts asks questions, and management replies (an answer).
 
 
 **Analysing specific words:**
+
 These features only look at sentences that contain the required word.
 
 44: "margin" - average sentiment (i.e. what’s the average sentiment for sentences that mentioned the word “margin”)
@@ -129,6 +135,7 @@ For numbers 44 to 73, it finds all sentences where a particular word appears, it
 
 
 **Finding text similarity between transcripts**
+
 74: Text similarity between the current and the 2nd most recent earnings transcript
 75: Text similarity between the current and the 3rd most recent earnings transcript
 76: Text similarity between the current and the 4th most recent earnings transcript
@@ -149,6 +156,7 @@ The hypothesis here is that text dissimilarity may imply operational changes in 
 
 
 **Dependent Variable (output of the machine learning model):**
+
 The dependent variable is what I want to predict (i.e. stock returns after the earnings call). Day 0 represents the day the earnings call is broadcasted. The reason I have multiple dependent variables is to see which time series is more accurate.
 
 86: Stock price difference between Day 0 and Day 10
@@ -164,6 +172,7 @@ The dependent variable is what I want to predict (i.e. stock returns after the e
 
 
 **Market Cap:**
+
 I included market cap so I can use it as a filter, for example, create a model that only looks at small-cap stocks, or one that only looks at large-cap etc.
 
 96: Market Cap
