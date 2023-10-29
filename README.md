@@ -1,9 +1,15 @@
 # ML_stock
 
+**Abstract**
+
+Forecasting the movement of stock prices has been a widely researched topic in both industry and academia. Granted, these programmes may not predict the future with absolute certainty, nonetheless, we can encompass them with other methods to gain an upper edge in investing or trading. Hedge funds often use these models to analyse or find opportunities in the securities market. However, these advanced models are not widely available for retail investors due to their complexity and competitive edge.
+
+Although the machine learning algorithm I aim to produce is not as sophisticated as one made by a billion-dollar hedge fund’, my goal for this project is to produce a web application that can provide retail investors with an accessible and well-rounded stock forecast. 
 
 
 
-****List of Features****
+
+**List of Features**
 
 0. Year of transcript release
 1. Quarter of transcript release
@@ -176,3 +182,19 @@ The dependent variable is what I want to predict (i.e. stock returns after the e
 I included market cap so I can use it as a filter, for example, create a model that only looks at small-cap stocks, or one that only looks at large-cap etc.
 
 96: Market Cap
+
+
+**Conclusion**
+
+
+Overall, the outcome met the majority of its requirements. I intended to extract features from 2469 stocks, and 85620 earnings calls, then used the model to make predictions about the stock market. I did manage to extract 85620 earnings calls, however, only around 5000 earnings transcripts have been fully analysed, this is largely due to the time that’s required to extract a single earnings call (each takes approx. 1 min). Nonetheless, these 5000 earnings calls represent all of the stocks for the sectors “banks”, “automobiles”, and “consumer durables”. Hence, I was able to create a model for each of these sectors, and the user can select between them. 
+
+However, there were a few areas where the outcome could be improved if the problem were revisited. One notable area for improvement would be to incorporate more advanced deep learning models, such as LSTM, to improve the accuracy of the predictions. To do this, I must restructure the data for it to be a timeseries. I tried transforming the current data into a format where each observation represents a specific point in time, in my case, each point of time represents one single earnings call (hence quarterly intervals). However, the accuracy of the model was lower than the binary classification model. This suggests I would have to include further time series data that integrates daily or weekly intervals into the analysis. Next, the data would need to be resampled or aggregated at the chosen time interval to create a time series dataset. Once the data has been transformed into a time series format, it would be suitable for use within a LSTM model. The reason that I may want a LSTM model is that they are very useful for predicting time series data because they can learn long-term dependencies between data points, making them well-suited for predicting stock market trends over time. 
+
+There are also other weaknesses this model face. Firstly, the machine learning model is only trained using earnings per share, and earnings transcript data (e.g. sentiment, prose, and text complexity) which means it doesn’t consider other elements that may impact the price movement of a stock such as press-releases, annual/quarterly reports, economic news, momentum of the stock. 
+
+Furthermore, since I’m analysing based on qualitative data (i.e. earnings transcripts instead of quantitative data such as moving average, relative strength index etc.) this may mean the model cannot give a precise quantitative percentage estimation. In addition the features I extracted from earnings transcript at this stage may not be very useful to feed into a LSTM network as stated before, which means finding new ways to feature engineering will benefit the accuracy significantly. 
+
+The model may improve by including some of the specification points I didn’t meet, such as the ability to read financial statements and spot irregularities with past statements (e.g. spotting new footnotes, and new risk factors in 10K and 10Qs). To do this, I need to find a reliable API that provides this information. Another improvement is to include the general sentiments of retail investors towards a specific stock (and measure its changes over time) by scraping content from Twitter, Reddit, and StockTwits. 
+
+Nonetheless, at present, using a binary classification model, an effective strategy is to go long on shares predicted to overperform (e.g. labelled bin1); and to short those labelled (e.g. labelled bin2). If I was given more time, I would also feature extraction all stocks and evaluate which sector presents the highest accuracies. Another improvement is to handle feature extraction differently for each sector, for example, for the tech sector, we can add custom features such as emphathising “growth rate” in the analysis, whereas for banks, we can emphathise “balance sheet” or “interest rate”. Furthermore, we can perhaps avoid data imbalances using methods such as over/under-sampling, or by using a classification model that features a weighted loss function. 
