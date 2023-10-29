@@ -7,7 +7,11 @@ Forecasting the movement of stock prices has been a widely researched topic in b
 
 Although the machine learning algorithm I aim to produce is not as sophisticated as one made by a billion-dollar hedge fund’, my goal for this project is to produce a web application that can provide retail investors with an accessible and well-rounded stock forecast. 
 
+Publicly-traded companies are prohibited to fabricate or deceive investors in earnings calls so it’s a useful tool for stock valuations. There may exist patterns from earnings calls that may be identified by a machine learning algorithm and used to extrapolate the direction of future stock movements. Various feature extraction techniques are used to convert earnings call transcripts (texts) to machine-readable formats (vectors). 
 
+The main feature extraction methods include the use of various NLP techinques, including: sentiment analysis (finBERT), text complexity metrics, key word filtering, TF-IDF and Cosine similarity. These features are grouped in "bins", then fed through a Random Forest Classifier.
+
+The results are stored in Firebase, which also facilitates user authentication and stores users' saved data.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
