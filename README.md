@@ -8,7 +8,8 @@ Although the machine learning algorithm I aim to produce is not as sophisticated
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **List of Features**
 
 0. Year of transcript release
@@ -16,14 +17,14 @@ Although the machine learning algorithm I aim to produce is not as sophisticated
 2. Date of transcript release
 3. Earnings Transcript contents
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Independent Variables (inputs of the machine learning model)**
 
 5. EPS surprise value
 
 The "EPS surprise value" indicates how much the EPS number released by a company exceeds or falls short of the predicted value by a financial analyst. This information can be used to determine whether the company has exceeded or missed the forecast.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Features extracted from Pre-release/Safe Harbour materials**
 
 5. Whole pre-release’s net sentiment index
@@ -63,7 +64,7 @@ Not forward-looking statements are statements that do not estimate future events
 
 Numbers 9 to 22 essentially tries to find any relationship between sentiment and semantical differences between these three forward-looking classifications and tests whether they have an effect of future stock performances.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Features extracted from the Questions & Answers:**
 
 “Questions” are those from analysts
@@ -79,7 +80,7 @@ Numbers 9 to 22 essentially tries to find any relationship between sentiment and
 29. All Question’s negative sentiment index
 30. All Question’s average text complexity index
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Combining all management replies:**
 
 31. All Reply’s net sentiment index
@@ -101,7 +102,7 @@ Numbers 9 to 22 essentially tries to find any relationship between sentiment and
 
 In the Q&A section, analysts asks questions, and management replies (an answer). Hence, we can compare the difference between the two parties and their general sentiment and semantical state, potentially giving a hint of future business performances.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Analysing specific words:**
 
 These features only look at sentences that contain the required word.
@@ -139,7 +140,7 @@ These features only look at sentences that contain the required word.
 
 For numbers 44 to 73, it finds all sentences where a particular word appears, it then checks the sentiment value for this sentence. For example, if the sentences associated with the word “earnings” is positive, this may imply they are achieving higher earnings in the future, hence potentially bullish for the stock price.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Finding text similarity between transcripts**
 
 74: Text similarity between the current and the 2nd most recent earnings transcript
@@ -160,7 +161,7 @@ For numbers 44 to 73, it finds all sentences where a particular word appears, it
 
 The hypothesis here is that text dissimilarity may imply operational changes in the business. For example, if there is a sudden drop in the frequency of the term 'iPad' and a corresponding increase in mentions of 'Macbooks' by Apple during the second quarter of 2022, it is reasonable to infer that they may have reoriented their attention towards Macbooks, which may have an impact on the stock price.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Dependent Variable (output of the machine learning model):**
 
 The dependent variable is what I want to predict (i.e. stock returns after the earnings call). Day 0 represents the day the earnings call is broadcasted. The reason I have multiple dependent variables is to see which time series is more accurate.
@@ -176,16 +177,17 @@ The dependent variable is what I want to predict (i.e. stock returns after the e
 94: Stock price difference between Day 1 and Day 70
 95: Stock price difference between Day 1 and Day 90
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Market Cap:**
 
 I included market cap so I can use it as a filter, for example, create a model that only looks at small-cap stocks, or one that only looks at large-cap etc.
 
 96: Market Cap
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Conclusion**
-
 
 Overall, the outcome met the majority of its requirements. I intended to extract features from 2469 stocks, and 85620 earnings calls, then used the model to make predictions about the stock market. I did manage to extract 85620 earnings calls, however, only around 5000 earnings transcripts have been fully analysed, this is largely due to the time that’s required to extract a single earnings call (each takes approx. 1 min). Nonetheless, these 5000 earnings calls represent all of the stocks for the sectors “banks”, “automobiles”, and “consumer durables”. Hence, I was able to create a model for each of these sectors, and the user can select between them. 
 
