@@ -60,6 +60,7 @@ The “net sentiment index” measures the average sentiment of all pre-release 
 20. Not Foward looking statement’s average text complexity index
 ----------------------------------------------------------------------
 21: Specific forward-looking statement index (calculated as the number of sentences classed as specific forward-looking, over the total number of sentences)
+
 22: Non-Specific forward-looking statement index (calculated as the number of sentences classed as non-specific forward-looking, over the total number of sentences)
 
 Specific forward-looking statements refer to statements that involve a precise estimation of future events (e.g. expected revenue). 
@@ -174,7 +175,7 @@ These features only look at sentences that contain the required word.
 
 73: "dividend/share buyback" - negative sentiment index
 
-For numbers 44 to 73, it finds all sentences where a particular word appears, it then checks the sentiment value for this sentence. For example, if the sentences associated with the word “earnings” is positive, this may imply they are achieving higher earnings in the future, hence potentially bullish for the stock price.
+For features 44 to 73, it finds all sentences where a particular word appears, it then checks the sentiment value for this sentence. For example, if the sentences associated with the word “earnings” is positive, this may imply they are achieving higher earnings in the future, hence potentially bullish for the stock price.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Finding text similarity between transcripts**
