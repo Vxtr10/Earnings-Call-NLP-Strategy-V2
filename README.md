@@ -108,34 +108,64 @@ In the Q&A section, analysts asks questions, and management replies (an answer).
 These features only look at sentences that contain the required word.
 
 44: "margin" - average sentiment (i.e. what’s the average sentiment for sentences that mentioned the word “margin”)
+
 45: "margin" - positive sentiment index
+
 46: "margin" - negative sentiment index
+
 47: "cost" - average sentiment
+
 48: "cost" - positive sentiment index
+
 49: "cost" - negative sentiment index
+
 50: "revenue" - average sentiment
+
+
 51: "revenue" - positive sentiment index
+
 52: "revenue" - negative sentiment index
+
 53: "earnings/EBIDTA" - average sentiment
+
 54: "earnings/EBIDTA" - positive sentiment index
+
 55: "earnings/EBIDTA" - negative sentiment index
+
 56: "growth" - average sentiment
+
 57: "growth" - positive sentiment index
+
 58: "growth" - negative sentiment index
+
 59: "leverage/debt" -  average sentiment
+
 60: "leverage/debt" -  positive sentiment index
+
 61: "leverage/debt" -  negative sentiment index
+
 62: "industry/sector" – average sentiment
+
 63: "industry/sector" – positive sentiment index
+
 64: "industry/sector" – negative sentiment index
+
 65: "operation" - average sentiment
+
 66: "operation" - positive sentiment index
+
 67: "operation" - negative sentiment index
+
 68: "cashflow" - average sentiment
+
 69: "cashflow" - positive sentiment index
+
 70: "cashflow" - negative sentiment index
+
 71: "dividend/share buyback" - average sentiment
+
 72: "dividend/share buyback" - positive sentiment index
+
 73: "dividend/share buyback" - negative sentiment index
 
 For numbers 44 to 73, it finds all sentences where a particular word appears, it then checks the sentiment value for this sentence. For example, if the sentences associated with the word “earnings” is positive, this may imply they are achieving higher earnings in the future, hence potentially bullish for the stock price.
@@ -144,19 +174,31 @@ For numbers 44 to 73, it finds all sentences where a particular word appears, it
 **Finding text similarity between transcripts**
 
 74: Text similarity between the current and the 2nd most recent earnings transcript
+
 75: Text similarity between the current and the 3rd most recent earnings transcript
+
 76: Text similarity between the current and the 4th most recent earnings transcript
 
+
+
 77: Text similarity between the current and the 2nd most recent earnings transcript (only looking at the pre-release materials)
+
 78: Text similarity between the current and the 3rd most recent earnings transcript (only looking at the pre-release materials)
+
 79: Text similarity between the current and the 4th most recent earnings transcript (only looking at the pre-release materials)
 
+
 80: Text similarity between the current and the 2nd most recent earnings transcript (only looking at the management replies)
+
 81: Text similarity between the current and the 3rd most recent earnings transcript (only looking at the management replies)
+
 82: Text similarity between the current and the 4th most recent earnings transcript (only looking at the management replies)
 
+
 83: Text similarity between the current and the 2nd most recent earnings transcript (only looking at the analyst questions)
+
 84: Text similarity between the current and the 3rd most recent earnings transcript (only looking at the analyst questions)
+
 85: Text similarity between the current and the 4th most recent earnings transcript (only looking at the analyst questions)
 
 The hypothesis here is that text dissimilarity may imply operational changes in the business. For example, if there is a sudden drop in the frequency of the term 'iPad' and a corresponding increase in mentions of 'Macbooks' by Apple during the second quarter of 2022, it is reasonable to infer that they may have reoriented their attention towards Macbooks, which may have an impact on the stock price.
